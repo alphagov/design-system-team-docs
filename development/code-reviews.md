@@ -54,9 +54,9 @@ author.
 
 ## After your pull request has been approved...
 
-If your branch is out of date you might need to rebase it. Always rebase against
-master rather than merging the master branch into your branch (unfortunately
-this is what GitHub’s ‘update branch’ button does)
+If your branch is out of date you might need to rebase it. Always rebase rather
+than merging the base branch into your branch (unfortunately this is what
+GitHub’s ‘update branch’ button does)
 
 Update the relevant Trello ticket for the PM to review the change (or should
 this happen before the merge?)
