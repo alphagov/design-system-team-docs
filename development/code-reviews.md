@@ -36,8 +36,8 @@ You should check that the pull request:
 - is understandable
 - is compliant with our code standards
 - introduces or updates the appropriate tests
-- links to the Trello card
-- meets (or partially meets) the definition of done in the Trello card
+- links to the relevant GitHub issue
+- meets (or partially meets) the definition of 'Done when' in the GitHub issue
 - has good, clear commit messages
 - has clear comments and documentation so that you understand what it’s doing
 - updates any related documentation or comments
@@ -58,5 +58,4 @@ If your branch is out of date you might need to rebase it. Always rebase against
 master rather than merging the master branch into your branch (unfortunately
 this is what GitHub’s ‘update branch’ button does)
 
-Update the relevant Trello ticket for the PM to review the change (or should
-this happen before the merge?)
+Update the relevant GitHub issue for the PM to review the change (or should this happen before the merge?)

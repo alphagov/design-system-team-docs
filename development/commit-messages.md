@@ -19,7 +19,7 @@ You should link to any supporting information:
 
 - relevant guidance, third party documentation or blog posts that informed
   your decision
-- Trello cards, GitHub issues or other bug reports
+- GitHub issues or other bug reports
 
 Remember that this supporting information might not be accessible to everyone,
 and links can easily be broken, so make sure the important information is
