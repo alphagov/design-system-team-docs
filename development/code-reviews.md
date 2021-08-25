@@ -60,3 +60,13 @@ GitHub’s ‘update branch’ button does)
 
 Update the relevant Trello ticket for the PM to review the change (or should
 this happen before the merge?)
+
+## When you review a Dependabot PR
+
+To make sure the pull request works correctly:
+
+- Read the release notes for the new version and look for changes that would impact our codebase. This is especially important with major releases.
+- Look at where in our codebase the package is used with `npm ls` - [see this example, where tests, Rollup and linting used the updated package](https://github.com/alphagov/govuk-design-system/pull/1813#issuecomment-896654240). Test that the parts of the codebase using the package work correctly.
+- If the new version is a major release, consider waiting for a few days before updating to see if anyone reports issues that could impact us.
+
+After the first developer to review the pull request approves it, they should ask another developer for a review. The second developer can then approve the pull request, before merging it themselves.
