@@ -2,8 +2,8 @@
 host: team-docs.design-system.service.gov.uk
 
 # Header-related options
-show_govuk_logo: true
-service_name: Design System team docs
+show_govuk_logo: false
+service_name: GOV.UK Design System team docs
 service_link: https://team-docs.design-system.service.gov.uk
 phase: Alpha
 
