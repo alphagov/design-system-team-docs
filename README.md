@@ -4,6 +4,8 @@ A reference guide for who we are and the way we do things. It's a playbook for a
 
 What's written here is the way we do things now, but that will change from time to time.
 
+View the playbook at https://govuk-design-system-team-docs.netlify.app/
+
 ## Technologies
 
 The docs were built using the [Tech Docs Template](https://github.com/alphagov/tech-docs-template), which uses [Tech Docs Gem version 3.3.1](https://github.com/alphagov/tech-docs-gem/releases/tag/v3.3.1).

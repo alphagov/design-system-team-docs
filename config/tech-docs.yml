@@ -1,10 +1,10 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: team-docs.design-system.service.gov.uk
+host: govuk-design-system-team-docs.netlify.app
 
 # Header-related options
 show_govuk_logo: false
 service_name: GOV.UK Design System team docs
-service_link: https://team-docs.design-system.service.gov.uk
+service_link: https://govuk-design-system-team-docs.netlify.app/
 phase: Alpha
 
 # Links to show on right-hand-side of header
