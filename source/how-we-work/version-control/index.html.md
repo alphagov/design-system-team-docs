@@ -31,6 +31,6 @@ The `main` branch is also an important branch in most of our projects, for examp
 
 - the Design System and Frontend Docs websites will be updated whenever the `main` branch for their respective repo changes.
 
-- when we do a release of GOV.UK Frontend, it's usually done from the `main` branch (or a support branch).
+- when we do a release of GOV.UK Frontend, it's usually done from the `main` branch (or a [support branch](./support-branches.html)).
 
 The main branch is protected using [branch protection rules](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches). This means that you can't make changes to it directly. Instead, you make changes by raising a Pull Request with the changes that you want to make.
