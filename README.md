@@ -16,11 +16,11 @@ _To be added._
 
 ## Contributing
 
-Contributions from the team are always welcome!
+Contributions from the team are always welcome! This playbook is currently in alpha, meaning we're testing out what content and guidance is useful. Raising issues and pull requests is strongly encouraged, so that we can develop the playbook as a team.
 
 We continually update this playbook because we're always looking for better ways to get things done. And that changes over time, especially as who works on the team and what we work on changes too.
 
-See `contributing.md` for ways to get started.
+See `contributing.md` for ways to get started. _Needs adding!_
 
 ## Acknowledgements
 
