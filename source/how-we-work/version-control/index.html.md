@@ -1,6 +1,6 @@
 ---
 title: Using version control (Git and GitHub)
-weight: 1
+weight: 6
 ---
 
 # Using version control (Git and GitHub)

@@ -1,6 +1,6 @@
 ---
 title: How to run a Design System team ceremony or workshop
-weight: 1
+weight: 5
 ---
 
 # How to run a Design System team ceremony or workshop 

@@ -1,6 +1,6 @@
 ---
 title: How we work
-weight: 99
+weight: 4
 ---
 
 # How we work
