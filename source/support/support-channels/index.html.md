@@ -1,6 +1,6 @@
 ---
 title: Support channels
-weight: 2
+weight: 18
 ---
 
 # Support channels

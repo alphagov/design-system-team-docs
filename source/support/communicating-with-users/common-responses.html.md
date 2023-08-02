@@ -1,6 +1,6 @@
 ---
 title: Common support responses
-weight: 1
+weight: 21
 ---
 
 # Common support responses
