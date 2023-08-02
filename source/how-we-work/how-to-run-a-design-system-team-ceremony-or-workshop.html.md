@@ -34,6 +34,7 @@ The team currently hold separate stand ups for each squad on the team. We have a
 The Design System squad has a Google Meet stand up each day at 10am except on no-meeting days. It is up to the facilitator to decide the format of the stand up. From August 2023 the squad are trialling using the GitHub sprint board at every stand up.
 
 There are a couple of formats that can be used:
+
 - looking at the 'Needs review' column only and identifying who is needed to review something and when they can do it
 - reviewing the 'Blocked' column and asking the team what’s needed to unblock something
 - running through the 'In progress' column and asking for updates
