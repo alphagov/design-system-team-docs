@@ -157,16 +157,21 @@ When facilitating this catch-up, there are a few things to remember:
 These happen every other Monday and are currently being used to support the team coaching workshops with Stefan Powell. The team has paired up to support reflection exercises.
 
 The agenda of the session currently looks like this:
-- intro
-- complete reflection worksheets 
-- pair up and share in breakout rooms, asking the following questions 
- 1. what have you scored the highest and why?
- 2. what have you scored the lowest and why?
- 3. what have you chosen to work on?
-- what opportunities are there to work on goals in the next two weeks? 
-- update worksheets 
-- pair up and share in breakout rooms and ask each other the following questions:
- 1. what will you do?
- 2. what support do you need to do this?
- 3. how will you get that support?
-- close 
+
+- Intro
+- Complete reflection worksheets 
+- Pair up and share in breakout rooms, asking the following questions: 
+
+    1. What have you scored the highest and why?
+    2. What have you scored the lowest and why?
+    3. What have you chosen to work on?
+
+- What opportunities are there to work on goals in the next two weeks? 
+- Update worksheets 
+- Pair up and share in breakout rooms and ask each other the following questions:
+
+    1. What will you do?
+    2. What support do you need to do this?
+    3. How will you get that support?
+
+- Close 
