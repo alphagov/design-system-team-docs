@@ -34,6 +34,7 @@ The team currently hold separate stand ups for each squad on the team. We have a
 The Design System squad has a Google Meet stand up each day at 10am except on no-meeting days. It is up to the facilitator to decide the format of the stand up. From August 2023 the squad are trialling using the GitHub sprint board at every stand up.
 
 There are a couple of formats that can be used:
+
 - looking at the 'Needs review' column only and identifying who is needed to review something and when they can do it
 - reviewing the 'Blocked' column and asking the team what’s needed to unblock something
 - running through the 'In progress' column and asking for updates
@@ -108,6 +109,7 @@ Note: This ceremony is fairly organic and has suited the team OK so far, but we 
 A mid-sprint review is a checkpoint halfway through a sprint. The session usually lasts 30 mins and checks progress against sprint goals, providing the opportunity to pivot if needed.
 
 In a mid-sprint review, the squad asks the following questions of the sprint goals:
+
 - have any risks or dependencies emerged?
 - how can blockers be resolved?
 - has the scope changed?
@@ -138,6 +140,7 @@ When planning or facilitating a retro, there are a few things to remember:
 This is a meeting between developers across the Design System and Prototype teams, to make sure we’re all aware of what everyone is working on. It happens twice a week (Mon at 10am and Thurs at 10:30am currently). Discussions are informal and relaxed, no need for prepared presentations.
 
 This catch-up gives developers time to:
+
 - update other developers on what they’re currently working on 
 - flag anything they’re working on that may affect other squads/teams
 - get help and advice for anything they’re stuck on
@@ -148,6 +151,7 @@ Facilitating this meeting is very light-touch. On a Monday, start by going aroun
 On a Thursday, reverse the order by starting with agenda items first, and then going to updates if there’s time.
 
 When facilitating this catch-up, there are a few things to remember:
+
 - make sure someone else is happy to note-take (rolling meeting notes here). It’s difficult to facilitate and note-take at the same time!
 - try and make sure discussions come back around to actions, even if they’re not things we will be picking up straight away
 - if someone is asking for help with a problem, try and make sure they at least have some avenues to explore by the time the call has ended. If not, discuss how to best help them (and who will do that) outside of the catch-up.
@@ -157,16 +161,21 @@ When facilitating this catch-up, there are a few things to remember:
 These happen every other Monday and are currently being used to support the team coaching workshops with Stefan Powell. The team has paired up to support reflection exercises.
 
 The agenda of the session currently looks like this:
-- intro
-- complete reflection worksheets 
-- pair up and share in breakout rooms, asking the following questions 
- 1. what have you scored the highest and why?
- 2. what have you scored the lowest and why?
- 3. what have you chosen to work on?
+
+- Intro
+- Complete reflection worksheets 
+- Pair up and share in breakout rooms, asking the following questions: 
+
+    1. What have you scored the highest and why?
+    2. What have you scored the lowest and why?
+    3. What have you chosen to work on?
+
 - What opportunities are there to work on goals in the next two weeks? 
 - Update worksheets 
 - Pair up and share in breakout rooms and ask each other the following questions:
- 1. what will you do?
- 2. what support do you need to do this?
- 3. how will you get that support?
-- close 
+
+    1. What will you do?
+    2. What support do you need to do this?
+    3. How will you get that support?
+
+- Close 
