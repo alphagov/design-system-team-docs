@@ -109,6 +109,7 @@ Note: This ceremony is fairly organic and has suited the team OK so far, but we 
 A mid-sprint review is a checkpoint halfway through a sprint. The session usually lasts 30 mins and checks progress against sprint goals, providing the opportunity to pivot if needed.
 
 In a mid-sprint review, the squad asks the following questions of the sprint goals:
+
 - have any risks or dependencies emerged?
 - how can blockers be resolved?
 - has the scope changed?
@@ -139,6 +140,7 @@ When planning or facilitating a retro, there are a few things to remember:
 This is a meeting between developers across the Design System and Prototype teams, to make sure we’re all aware of what everyone is working on. It happens twice a week (Mon at 10am and Thurs at 10:30am currently). Discussions are informal and relaxed, no need for prepared presentations.
 
 This catch-up gives developers time to:
+
 - update other developers on what they’re currently working on 
 - flag anything they’re working on that may affect other squads/teams
 - get help and advice for anything they’re stuck on
@@ -149,6 +151,7 @@ Facilitating this meeting is very light-touch. On a Monday, start by going aroun
 On a Thursday, reverse the order by starting with agenda items first, and then going to updates if there’s time.
 
 When facilitating this catch-up, there are a few things to remember:
+
 - make sure someone else is happy to note-take (rolling meeting notes here). It’s difficult to facilitate and note-take at the same time!
 - try and make sure discussions come back around to actions, even if they’re not things we will be picking up straight away
 - if someone is asking for help with a problem, try and make sure they at least have some avenues to explore by the time the call has ended. If not, discuss how to best help them (and who will do that) outside of the catch-up.
