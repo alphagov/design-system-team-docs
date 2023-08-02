@@ -163,9 +163,9 @@ The agenda of the session currently looks like this:
  1. what have you scored the highest and why?
  2. what have you scored the lowest and why?
  3. what have you chosen to work on?
-- What opportunities are there to work on goals in the next two weeks? 
-- Update worksheets 
-- Pair up and share in breakout rooms and ask each other the following questions:
+- what opportunities are there to work on goals in the next two weeks? 
+- update worksheets 
+- pair up and share in breakout rooms and ask each other the following questions:
  1. what will you do?
  2. what support do you need to do this?
  3. how will you get that support?
