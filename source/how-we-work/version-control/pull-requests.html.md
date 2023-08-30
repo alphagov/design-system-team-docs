@@ -1,6 +1,6 @@
 ---
 title: Working with Pull Requests
-weight: 7
+weight: 8
 ---
 
 # Working with Pull Requests (PRs)
