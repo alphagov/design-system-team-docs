@@ -40,3 +40,7 @@ github_branch: main
 
 # Show when processes and pages need reviewing
 show_expiry: true
+
+# Slack details for Daniel the Manual Spaniel
+owner_slack_workspace: gds
+default_owner_slack: '#design-system-team-channel'
