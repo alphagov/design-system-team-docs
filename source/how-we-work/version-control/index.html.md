@@ -1,6 +1,8 @@
 ---
 title: Using version control (Git and GitHub)
 weight: 7
+last_reviewed_on: 2023-09-04
+review_in: 3 months
 ---
 
 # Using version control (Git and GitHub)

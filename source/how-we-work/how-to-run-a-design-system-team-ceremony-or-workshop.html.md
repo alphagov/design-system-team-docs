@@ -1,6 +1,8 @@
 ---
 title: How to run a Design System team ceremony or workshop
 weight: 5
+last_reviewed_on: 2023-09-04
+review_in: 3 months
 ---
 
 # How to run a Design System team ceremony or workshop 

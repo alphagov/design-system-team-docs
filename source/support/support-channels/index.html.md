@@ -1,6 +1,8 @@
 ---
 title: Support channels
 weight: 18
+last_reviewed_on: 2023-09-04
+review_in: 12 months
 ---
 
 # Support channels
