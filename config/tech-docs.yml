@@ -33,6 +33,14 @@ max_toc_heading_level: 2
 # Prevent robots from indexing (e.g. whilst in development)
 prevent_indexing: true
 
+# Add the contribution banner
 show_contribution_banner: true
 github_repo: alphagov/design-system-team-docs
 github_branch: main
+
+# Show when processes and pages need reviewing
+show_expiry: true
+
+# Slack details for Daniel the Manual Spaniel
+owner_slack_workspace: gds
+default_owner_slack: '#design-system-team-channel'
