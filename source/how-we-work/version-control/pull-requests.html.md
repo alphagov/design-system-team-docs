@@ -52,6 +52,8 @@ Be aware of [supply chain attacks](https://www.ncsc.gov.uk/collection/supply-cha
 
 If you want to check the changes being made to the dependency, use a tool like [Package Diff](https://diff.intrinsic.com/) which shows the difference between the published packages.
 
+A quick look at the `package-lock.json` file may reveal that Dependabot has incorrectly duplicated some `optionalDependencies` to `dependencies`. If it occurs, this can usually be fixed by checking out the branch, running `npm install` and pushing a new commit with the resulting `package-lock.json`.
+
 The PR should be reviewed by 2 developers if:
 
 - it's a major version bump or the release notes suggest there are breaking changes
