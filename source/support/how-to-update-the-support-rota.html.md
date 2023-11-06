@@ -13,7 +13,7 @@ The Design System team events calendar is used to host the support rota. Most me
 
 Add an all day event to the calendar stating who is on support. For example:
 
-> > Kelly on support
+> Kelly on support
 
 Repeat this for the following month, rotating who is on support each day. Pay attention to non-working days and planned leave when allocating. 
 
