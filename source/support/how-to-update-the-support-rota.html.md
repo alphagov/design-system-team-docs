@@ -19,7 +19,6 @@ Repeat this for the following month, rotating who is on support each day. Pay at
 
 Support is not required on no meetings days.
 
-
 ## Tell the team
   
 Let the team know on Slack when you have updated the support rota so individuals can check their days. 
