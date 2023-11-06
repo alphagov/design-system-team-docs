@@ -17,7 +17,7 @@ Add an all day event to the calendar stating who is on support. For example:
 
 Repeat this for the following month, rotating who is on support each day. Pay attention to non-working days and planned leave when allocating. 
 
-Support is not required on no meetings days.
+Support is not required on team ceremony days.
 
 ## Tell the team
   
