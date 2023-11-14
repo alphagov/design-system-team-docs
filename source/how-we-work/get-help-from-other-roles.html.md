@@ -1,14 +1,25 @@
 ---
 title: Get help from other roles
 weight: 6
-last_reviewed_on: 2023-11-02
+last_reviewed_on: 2023-11-14
 review_in: 6 months
 ---
 # Get help from other roles
 
 We're a [multidisciplinary team](https://www.gov.uk/service-manual/service-standard/point-6-have-a-multidisciplinary-team) made up of people with a diverse mix of skills and expertise. This helps us make better quality decisions that lead to great outcomes for users, as opposed to working in siloes which isolate people from each other based on their role. Great ideas come from [combining different perspectives](https://gds.blog.gov.uk/2016/02/01/professions-and-boldness/).
 
-We can learn from people in other roles by working directly with them on projects. But when this isn't possible, we can still 'knock on their door' and ask for help. 
+We can learn from people in other roles by working directly with them on projects. But when this isn't possible, we can still 'knock on their door' and ask for help. It's okay to ask for help.
+
+If we ask people for help, [it's okay](https://govdesign.tumblr.com/post/144909646023/download-the-poster-its-ok-to) for them to say no and explain why. For example, they might not have capacity.
+
+## A basic template
+
+You can use a few pieces of information to help other people understand, assess and respond to your ask for help. 
+
+- **Which role (or person) you need help from:** it's easy to glance past general requests for help when busy, so make it clear to the person or people you need help from.
+- **What you need:** describe what you might need someone to do and what their input helps unblock.
+- **How long it might take:** minutes, hours, days or weeks? Let people know how much time they might need to invest (or ask for their opinion).
+- **Whether it's time sensitive:** if people know you need urgent help, they might be able to shift their priorities around to help.
 
 ## Product manager and delivery manager
 
