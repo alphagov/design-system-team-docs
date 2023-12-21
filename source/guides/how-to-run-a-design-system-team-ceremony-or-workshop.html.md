@@ -9,7 +9,7 @@ review_in: 3 months
 
 This document details the principles, tools and resources we use when planning and running a ceremony or workshop on the Design System team.
 
-## Principles
+## Facilitation principles
 
 There are some principles that are important to remember when planning and facilitating a ceremony or workshop on the Design System team:
 
