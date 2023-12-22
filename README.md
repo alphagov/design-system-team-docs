@@ -10,6 +10,10 @@ View the playbook at https://govuk-design-system-team-docs.netlify.app/
 
 The docs were built using the [Tech Docs Template](https://github.com/alphagov/tech-docs-template), which uses [Tech Docs Gem version 3.3.1](https://github.com/alphagov/tech-docs-gem/releases/tag/v3.3.1).
 
+## Setup
+
+Run `bundle install` to update dependencies, then run `bundle exec middleman server` to run the local server.
+
 ## Contributing
 
 Contributions from the team are always welcome! This playbook is currently in alpha, meaning we're testing out what content and guidance is useful. Raising issues and pull requests is strongly encouraged, so that we can develop the playbook as a team.
