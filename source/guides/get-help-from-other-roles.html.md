@@ -72,7 +72,7 @@ To get help
 
 A frontend developer designs, builds and improves website software that meets user needs. They write clean, accessible and open code, and are knowledgeable about fundamental frontend technologies such as HTML, CSS and JavaScript. You can read more about [frontend developers’](https://ddat-capability-framework.service.gov.uk/frontend-developer.html) skills on the DDaT Capability Framework.
 
-On the Design System team, frontend developers build and maintain [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend/), the [Design System Website](https://github.com/alphagov/govuk-design-system) and the [rest of our product repositories](/what-we-do/#our-products).
+On the Design System team, frontend developers build and maintain [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend/), the [Design System website](https://github.com/alphagov/govuk-design-system) and the [rest of our product repositories](/what-we-do/#our-products).
 
 You can ask a frontend developer for help with:
 
