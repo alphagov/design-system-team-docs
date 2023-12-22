@@ -83,8 +83,8 @@ You can ask a frontend developer for help with:
 - HTML, CSS and JavaScript
 - accessibility best practices
 - web performance
-- Setting up our projects and their tooling on your machine
-- Troubleshooting errors when running our projects (both on your machine and GitHub)
+- setting up our projects and their tooling on your machine
+- troubleshooting errors when running our projects (both on your machine and GitHub)
 
 To get help
 
