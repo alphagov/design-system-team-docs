@@ -86,6 +86,12 @@ Redirect: govuk-enquiries@digital.cabinet-office.gov.uk
 
 Point the user to the [GDS Request a thing] page.
 
+### Emails or queries for government or Downing Street
+
+We have no influence over government policy and are unable to redirect emails to anyone who does. 
+
+Emails offering feedback or suggestions on government policy or politicians should be closed as spam.
+
 ## Latest release questions
 
 ### Browser support changes in GOV.UK Frontend v5
@@ -512,12 +518,11 @@ There is some guidance here about services for government users: <https://www.go
 
 Also, Amy Hupe who used to work on the GOV.UK Design System wrote about internal services and design systems: <https://amyhupe.co.uk/articles/why-you-dont-need-a-separate-design-system-for-internal-services/> 
 
-
 We do encourage teams building internal tools to make use of the GOV.UK Design System where it's appropriate for their use case. You should test your application with real users which will help you determine if you're building your application in a way that ensures users can complete their tasks and whether you need to make any adjustments to meet user needs.
 
 We also have an open issue in our backlog about making it easier to create admin systems, case working tools and intranets using the GOV.UK Design System: <https://github.com/alphagov/govuk-design-system-backlog/issues/185>. Feel free to leave any comments about your use case on the issue. Very much related to the above issue, we also have an open issue around changing the default font and colours which you might find helpful: <https://github.com/alphagov/govuk-design-system/issues/1019>
 
-Alos, departmental design systems often document patterns used for ‘admin’ or ‘internal’ services. Some to look at:
+Also, departmental design systems often document patterns used for ‘admin’ or ‘internal’ services. Some to look at:
 <https://moj-design-system.herokuapp.com/>
 <https://design.homeoffice.gov.uk/>
 <https://design.tax.service.gov.uk/>
@@ -543,6 +548,16 @@ Some caseworking design patterns from when Chris from Home Office used to  run a
 >https://www.gov.uk/report-suspicious-emails-websites-phishing
 >
 >As for this repo, unfortunately if people want to run a scam, it's already fairly easy to copy and paste code from any website in order to impersonate it.
+
+### Marketing emails or other spam not requiring a response
+
+If an email contains unsolicited marketing or incomprehensible nonsense:
+
+- Set [Design System] Primary to “Spam”
+- Set [Design System] Secondary to “None of the Above”
+- Click the "Apply macro" button, select "Design System" and then "close with no reply"
+- Include internal note if appropriate
+- “Submit as solved”
 
 ## Website
 

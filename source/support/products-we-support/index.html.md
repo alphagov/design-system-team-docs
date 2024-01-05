@@ -65,5 +65,4 @@ The GOV.UK Design System team maintains the [Accessible Autocomplete] as a stand
 [GOV.UK Frontend]: https://github.com/alphagov/govuk-frontend
 [GOV.UK Frontend Toolkit]: https://github.com/alphagov/govuk_frontend_toolkit
 [GOV.UK Prototype Kit]: https://govuk-prototype-kit.herokuapp.com/docs
-[GOV.UK Prototype Kit Email]: govuk-prototype-kit-support@digital.cabinet-office.gov.uk
 [GOV.UK Template]: http://alphagov.github.io/govuk_template/
