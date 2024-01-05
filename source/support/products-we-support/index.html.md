@@ -33,11 +33,13 @@ Security issues should be addressed, but only if they impact the services that u
 
 ### [GOV.UK Prototype Kit]
 
-As of May 2023, the Prototype team will handle any queries regarding the Kit. The Design System team can redirect Kit queries to the cross-gov slack channel #prototype-kit, or hand over queries either via the Prototype team Slack channel or via [email][GOV.UK Prototype Kit Email]
+As of December 2023, the Prototype Kit is in maintenance mode and the Prototype Kit team has been disbanded. The Design System team has taken stewardship of the Kit for maintenance purposes but does not provide end-user support.
+
+Kit queries should be redirected to the cross-gov slack channel #prototype-kit.
 
 ### [Accessible Autocomplete]
 
-We’re not currently supporting the autocomplete repo
+We’re not currently supporting the autocomplete repo.
 
 [Accessible Autocomplete]: https://github.com/alphagov/accessible-autocomplete
 [Community backlog]: https://design-system.service.gov.uk/community/backlog/
@@ -46,6 +48,4 @@ We’re not currently supporting the autocomplete repo
 [GOV.UK Frontend]: https://github.com/alphagov/govuk-frontend
 [GOV.UK Frontend Toolkit]: https://github.com/alphagov/govuk_frontend_toolkit
 [GOV.UK Prototype Kit]: https://govuk-prototype-kit.herokuapp.com/docs
-[GOV.UK Prototype Kit Email]: govuk-prototype-kit-support@digital.cabinet-office.gov.uk
 [GOV.UK Template]: http://alphagov.github.io/govuk_template/
-
