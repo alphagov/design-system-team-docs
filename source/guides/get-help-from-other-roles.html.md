@@ -48,6 +48,22 @@ Our designers cover the interaction, service and graphic design disciplines. A g
 
 On this team, we tend not to focus on job titles and we work as a group instead. Though each of us will have particular areas of expertise, we will often work together to draw from each other's skills and knowledge.
 
+You can ask a designer for help with
+
+- understanding the problem you’re trying to solve
+- working with the team to advocate for users 
+- interpreting user research and data 
+- proposing potential solutions to your problem
+- making a prototype to test assumptions  
+- making sure the thing you’re working on is inclusive and accessible
+- visual design assistance on the thing you’re working on
+
+To get help
+
+- send a message on Slack
+- use a collaborative tool such as Padlet, Trello, Mural or Google Doc to frame your thoughts
+- arrange a call 
+
 ### Designers on the team
 Ciandelle - I have a background in both service and interaction design. I prefer to work on things where I can pay close attention to detail and visualise the work as part of the larger picture. I am really confident with the prototype kit. I struggle with physical drawing and graphic design. 
 
