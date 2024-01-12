@@ -73,23 +73,3 @@ Charlotte - I trained as a product designer with a bit of engineering but always
 
 Mia - I trained as a graphic designer but since then I’ve done a range of things, including motion graphics, product design, interaction design, illustration, publication design and exhibition design. I can draw you a logo and I can help you refine your brand. Coding in HTML and CSS are fun things I like to do when the need arises, but I’m not up on the latest frameworks. I’m generally tool agnostic, and I will always start from first principles: why does this exist, what are we trying to do, what are the words we’re using? My philosophy is: don’t try to solve a content problem with interaction design. Also, if it’s not accessible, it’s not finished.
 
-You can ask a designer for help with
-
-- Understanding the problem you’re trying to solve
-- Working with the team to advocate for users 
-- Interpreting user research and data 
-- Proposing potential solutions to your problem
-- Making a prototype to test assumptions  
-- Making sure the thing you’re working on is inclusive and accessible
-- Visual design assistance of the thing it is you’re working on
-
-To get help
-
-- send a message on Slack
-- use a collaborative tool such as Padlet, Trello, Mural or Google Doc to frame your thoughts
-- arrange a call 
-
-Use the [basic template](https://govuk-design-system-team-docs.netlify.app/guides/get-help-from-other-roles#a-basic-template) to draft your request to us. 
-
-
-You can read more about user-centred design roles on the [Digital, Data and Technology Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/).
