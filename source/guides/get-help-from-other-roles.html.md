@@ -44,7 +44,7 @@ To get help
 - arrange a call  
 
 ## Designers
-The Design System team has a number of different designers covering the interaction, service and graphic design disciplines. They use their knowledge of user needs to design styles, components and patterns that assist the community. 
+Our designers cover the interaction, service and graphic design disciplines. A graphic designer creates graphic elements that underpin interaction and service design. An interaction designer works out the best way to let users interact with services, in terms of both overall flow and at the level of individual design elements. A service designers design the end-to-end journey of a service. You can read more about user-centred design roles on the [Digital, Data and Technology Profession Capability Framework](https://ddat-capability-framework.service.gov.uk/).
 
 As a group of designers on this team, we tend not to focus on job titles and specific DDAT skills. Instead we work as a group. Though each of us will have particular areas of expertise, we will often work together to draw from each other's skills and knowledge.
 
