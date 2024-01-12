@@ -43,7 +43,7 @@ To get help
 - use a collaborative tool such as Padlet, Trello, Mural or Google Doc to frame your thoughts
 - arrange a call  
 
-## Designers on the Design System team 
+## Designers
 The Design System team has a number of different designers covering the interaction, service and graphic design disciplines. They use their knowledge of user needs to design styles, components and patterns that assist the community. 
 
 As a group of designers on this team, we tend not to focus on job titles and specific DDAT skills. Instead we work as a group. Though each of us will have particular areas of expertise, we will often work together to draw from each other's skills and knowledge.
