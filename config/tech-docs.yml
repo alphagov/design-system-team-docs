@@ -3,9 +3,9 @@ host: govuk-design-system-team-docs.netlify.app
 
 # Header-related options
 show_govuk_logo: false
-service_name: GOV.UK Design System team docs
-service_link: https://govuk-design-system-team-docs.netlify.app/
-phase: Alpha
+service_name: GOV.UK Design System team playbook
+service_link: /
+phase: Internal
 
 # Links to show on right-hand-side of header
 header_links:
