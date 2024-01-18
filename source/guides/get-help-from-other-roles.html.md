@@ -24,7 +24,7 @@ You can use a few pieces of information to help other people understand, assess 
 
 ## Product and delivery managers
 
-A product manager is responsible for the quality of their products. They use their knowledge of user needs and business goals to frame problems and set priorities for delivery teams. A delivery manager is accountable for the delivery of products and services. You can read more about [product managers' skills](https://ddat-capability-framework.service.gov.uk/product-manager.html) and [deliver managers' skills](https://ddat-capability-framework.service.gov.uk/delivery-manager.html) on the Digital, Data and Technology (DDaT) Profession Capability Framework.
+A product manager is responsible for the quality of their products. They use their knowledge of user needs and business goals to frame problems and set priorities for delivery teams. A delivery manager is accountable for the delivery of products and services. You can read more about [product managers' skills](https://ddat-capability-framework.service.gov.uk/product-manager.html) and [deliver managers' skills](https://ddat-capability-framework.service.gov.uk/delivery-manager.html) on the Government Digital and Data Profession Capability Framework.
 
 You can ask a product manager and delivery manager for help with
 
