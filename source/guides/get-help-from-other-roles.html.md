@@ -84,3 +84,39 @@ I trained as a product designer with a bit of engineering but always preferred s
 #### Mia
 
 I trained as a graphic designer but since then I’ve done a range of things, including motion graphics, product design, interaction design, illustration, publication design and exhibition design. I can draw you a logo and I can help you refine your brand. Coding in HTML and CSS are fun things I like to do when the need arises, but I’m not up on the latest frameworks. I’m generally tool agnostic, and I will always start from first principles: why does this exist, what are we trying to do, what are the words we’re using? My philosophy is: don’t try to solve a content problem with interaction design. Also, if it’s not accessible, it’s not finished.
+
+## User researcher
+Your user researcher will help your team learn about user's needs by looking at behaviours and challenges. They will help you frame what you want to know, create questions, design and deliver research, then analyse findings and present insights.
+
+### When’s the best time to involve your user researcher?
+It depends on where you are in your project and what kind of things you want to find out. In the discovery phase, if you’re looking to find out:
+
+- who your likely users are and what they’re trying to do
+- how they do it currently (for example, what services or channels they use)
+- the problems or frustrations they experience
+- what users need from your service to achieve their goal
+
+You can find out [more here in the Service Manual](https://www.gov.uk/service-manual/user-research/user-research-in-discovery).
+
+Generally speaking, you should involve your user researcher:
+
+- as soon as you think you want to know something about users
+- at project kick off 
+- when you’re knocking ideas around
+- when you’ve discovered something mid-project that you need to know more about from a user’s perspective
+- you want to find out if research has been done on an subject you’re interested in
+- you want to talk about ethics, recruitment or consent
+- if you’re stuck and don’t know which direction to go in (ie would knowing more about the users behaviour be helpful?)
+
+Not when:
+
+- you’ve written and sent a survey and want your user researcher to analyse the data
+- you’ve decided to book some interviews
+- you need a research plan writing
+
+### What to do first
+Set up a chat or involve your researcher in your kick off discussions and share links to all the relevant documents with enough time for them to read them and come back to you with any questions. 
+
+This helps them to understand the context of the project you are working on. They’ll use this to set up a more detailed conversation that’ll help form a research plan (or confirm research isn’t necessary). They’ll use this conversation to find out what you want to know, why you need to know it, the impact the research will have and when it can be acted on.
+
+With you, your user researcher will make a decision about whether and when to do research. Then your user researcher will decide the best way of doing it (methodology) and develop a research plan. You’ll all then agree on the research plan - which is an essential starting point to align the team on research goals.
