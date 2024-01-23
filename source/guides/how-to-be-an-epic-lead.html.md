@@ -27,16 +27,16 @@ To ensure the role is achievable and sustainable, each individual is limited to 
 ## What an epic lead is responsible for
   
 - Ensures work on the epic remains visible to the team
-- Keeps epic work flowing at pace
+- Keeps epic work flowing at pace, ensuring the squad are working together 
 - Ensures GitHub cards are kept up to date
-- Coordinates sprint goals and show & tell updates
+- Coordinates mid-cycle demos and show & tell updates
 - Helps break gridlock when there’s uncertainty or ambiguity
 - Escalates issues and blockers to the delivery manager and product manager
 
 ## What an epic lead doesn’t do
   
 - Make all the decisions
-- Be the only person drafting sprint goals or speaking at show & tell
+- Be the only person drafting goals or speaking at show & tell
 - Replace the delivery manager or product manager
 
 ## Working with the delivery manager and product manager
