@@ -1,6 +1,6 @@
 ---
 title: How to give a new starter access to our support services
-weight: 7
+weight: 20
 last_reviewed_on: 2024-02-01
 review_in: 6 months
 ---
