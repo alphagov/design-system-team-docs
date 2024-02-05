@@ -1,10 +1,12 @@
 # GOV.UK Design System Team Docs
 
+> ⚠️ This is for internal use by the Design System team. Public-facing documentation can be found at https://design-system.service.gov.uk.
+
 A reference guide for who we are and the way we do things. It's a playbook for anyone in the GOV.UK Design System team that tells us the 'right way' to do things.
 
 What's written here is the way we do things now, but that will change from time to time.
 
-View the playbook at https://govuk-design-system-team-docs.netlify.app/
+View the playbook at https://team-playbook.design-system.service.gov.uk/
 
 ## Technologies
 
