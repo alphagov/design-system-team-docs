@@ -33,11 +33,30 @@ Security issues should be addressed, but only if they impact the services that u
 
 ### [GOV.UK Prototype Kit]
 
-As of May 2023, the Prototype team will handle any queries regarding the Kit. The Design System team can redirect Kit queries to the cross-gov slack channel #prototype-kit, or hand over queries either via the Prototype team Slack channel or via [email][GOV.UK Prototype Kit Email]
+The [GOV.UK Prototype Kit] is currently maintained by the GOV.UK Design System team. Huge thanks to the GOV.UK Prototype team, who’s hard work has made our job of maintaining the Prototype Kit much easier.
+
+We will:
+
+- update dependencies and address serious bugs
+- review bugs and dependencies every 3 months (serious bugs will be given high priority)
+
+We cannot:
+
+- provide user support on Slack, GitHub or via email
+- add new features
+- review contributions
+- update documentation
+- address smaller functionality issues that do not block usage
+
+Many departments told us about documentation and support for the Prototype Kit which was provided internally, so we encourage users to seek help from their colleagues.
 
 ### [Accessible Autocomplete]
 
-We’re not currently supporting the autocomplete repo
+The GOV.UK Design System team maintains the [Accessible Autocomplete] as a standalone component. However, we’re only able to put in minimal work to support it.
+
+[Read about our plans to maintain this component](https://github.com/alphagov/accessible-autocomplete/issues/532).
+
+[Read more about the types of support we can provide](https://github.com/alphagov/accessible-autocomplete/issues/430).
 
 [Accessible Autocomplete]: https://github.com/alphagov/accessible-autocomplete
 [Community backlog]: https://design-system.service.gov.uk/community/backlog/
@@ -48,4 +67,3 @@ We’re not currently supporting the autocomplete repo
 [GOV.UK Prototype Kit]: https://govuk-prototype-kit.herokuapp.com/docs
 [GOV.UK Prototype Kit Email]: govuk-prototype-kit-support@digital.cabinet-office.gov.uk
 [GOV.UK Template]: http://alphagov.github.io/govuk_template/
-
