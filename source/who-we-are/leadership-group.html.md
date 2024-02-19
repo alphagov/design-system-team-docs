@@ -11,7 +11,7 @@ The GOV.UK Design System leadership group is responsible for doing the work that
 - Chris Ballantine-Thomas (Senior Interaction Designer)
 - Kelly Lee (Senior Delivery Manager)
 - Oliver Byford (Lead Frontend Developer)
-- Steve Messer (Senior Product Manager)
+- Trang Erskine (Senior Product Manager)
 
 ## What we do
 - evolve and adapt the team’s strategic direction
