@@ -5,6 +5,8 @@ last_reviewed_on: 2024-02-01
 review_in: 6 months
 ---
 
+# How to give a new starter access to our support services
+
 When somebody new joins the team, they will need to be given access to our support services. We encourage the entire team to have visibility of support requests, regardless of whether they will be on the support rota.
 
 ## Adding to Zendesk
