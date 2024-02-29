@@ -11,4 +11,5 @@ See the “[Support Model Blueprint](https://docs.google.com/drawings/d/1ox2FK9q
 - [Support channels](./support-channels/)
 - [Daily support responsibilities](./support-responsibilites/)
 - [Communicating with users](./communicating-with-users/)
+- [How to give a new starter access to our support services](./how-to-give-a-new-starter-access-to-our-support-services/)
 
