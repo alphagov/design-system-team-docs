@@ -460,11 +460,47 @@ When we receive a meeting request, use our [meeting requests form] to help:
 
 ## Misc
 
-### JavaScript frameworks, like React
+### JavaScript frameworks, like React, Preact, Vue, Angular, Svelte, Stimulus
 
 Some potential responses in this [doc about Progressive enhancement].
 
 There’s also the [service manual page].
+
+#### Making GOV.UK Frontend work with JavaScript frameworks
+
+⚠️ The response contains placeholders that you'll need to replace according to the framework the user wants to use.
+
+> GOV.UK Frontend has been designed for multi-page site/apps, where all elements are present on the page at load and then get [progressively enhanced] by the `initAll` function. This helps ensure as many users as possible can complete their task [regardless of whether CSS or JavaScript loaded without errors for them][progressive-enhancement-reasons].
+>
+> Single-page apps, where components will get added or removed from the page dynamically, are not really something we’re built for, unfortunately. You might find ports for single-page app frameworks/libraries like **\<FRAMEWORK_NAME>**, but they won't be maintained by our team and we'd encourage you to reach out to their maintainers if you plan on using them.
+> 
+> Depending on what your app does, though, you may get some success from [initialising GOV.UK Frontend components individually][govuk-frontend-initialise-individually]. Using lifecycle hooks from your framework/library (**\<FRAMEWORK_LIFECYCLE>** for **\<FRAMEWORK_NAME>**, possibly), you can initialise the GOV.UK Frontend component after your framework adds your component to the DOM. Because we’re designed for multi-page apps, you might also need to:
+> 
+> - destroy and re-create components when some updates happen, as some of our components (like the Accordion) do a fair amount of modifications of the DOM when initialised
+> - possibly do some cleanup when components get removed from the page, as our components generally expect the page to be trashed by the browser upon navigation and don’t do any cleanup themselves.
+> 
+> We’d be happy to hear of any API that would make such integration easier, as well, as this could inform how we update our library in the future.
+
+**\<FRAMEWORK_LIFECYCLE>** to suggest:
+
+- React: [`useEffect`][react-useEffect]
+- Preact: [`useEffect`][preact-useEffect]
+- Vue: [`onMounted`][vue-onMounted]
+- Angular: [`afterNextRender` in the constructor][angular-afterNextRender]
+- Svelte: [`onMount`][svelte-onMount]
+- Stimulus: [`connect`][stimulus-connect]
+- Lit or 'vanilla' Web Components: [`connectedCallback`][web-components-connectedCallback]
+
+[progressively enhanced]: https://www.gov.uk/service-manual/technology/using-progressive-enhancement
+[progressive-enhancement-reasons]: https://www.gov.uk/service-manual/technology/using-progressive-enhancement#do-not-assume-users-turn-off-css-or-javascript
+[react-useEffect]: https://react.dev/learn/synchronizing-with-effects
+[preact-useEffect]: https://preactjs.com/guide/v10/hooks/#useeffect
+[vue-onMounted]: https://vuejs.org/api/composition-api-lifecycle.html#onmounted
+[angular-afterNextRender]: https://angular.io/guide/lifecycle-hooks#one-time-initialization
+[svelte-onMount]: https://learn.svelte.dev/tutorial/onmount
+[stimulus-connect]: https://stimulus.hotwired.dev/reference/lifecycle-callbacks
+[web-components-connectedCallback]: https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements#custom_element_lifecycle_callbacks
+[govuk-frontend-initialise-individually]: https://frontend.design-system.service.gov.uk/importing-css-assets-and-javascript/#import-individual-components
 
 ### What's the difference between service, transaction and content?
 
