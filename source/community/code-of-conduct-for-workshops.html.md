@@ -42,4 +42,5 @@ Attendees should not record video or take photographs of sessions run unless spe
 Be considerate of what you share on social media. Do not share any content, insights or links from sessions without the explicit permission of the session runners.
 
 **9. Uphold conduct**
+
 The event organisers reserve the right to ask anyone in violation of these policies to not participate in further activities. Organisers will reinforce this code throughout event engagements. If you have any concerns, please contact any of our organisers immediately.
