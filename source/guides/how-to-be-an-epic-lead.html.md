@@ -33,7 +33,7 @@ This usually means creating cards in GitHub for the tasks assocaited with the ep
 Regular stand ups are a good way to keep an epic flowing at pace. It can allow the epic lead to spot blockers and escalate issues and concerns. If working alongside a delivery manager in a squad, they can support with this. During the scoping phase of a brief, it's useful to draft a high level delivery plan with healthy deadlines which can help keep an epic on track.  
 
 ### Ensures GitHub cards are kept up to date
-An epic lead should ensure all cards related to the epic are showing the correct statusd on the cycle board (eg "in progress"), the 'done whens' are updated and cards are closed when completed. They should document all key decisions regarding the epic on the relevant GitHub card. This can serve as a reference point in future for the team.
+An epic lead should ensure all cards related to the epic are showing the correct status on the cycle board (eg "in progress"), the 'done whens' are updated and cards are closed when completed. They should document all key decisions regarding the epic on the relevant GitHub card. This can serve as a reference point in future for the team.
 
 ### Coordinates mid-cycle demos and show & tell updates
 The epic lead does not need to deliver the demo or show & tell but does need organise the update on the behalf of the squad. This usually invovles having a conversation with the squad a few days before mid-cycle demo or show & tell to discuss what is being shown and by who.
