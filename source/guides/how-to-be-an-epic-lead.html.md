@@ -4,7 +4,7 @@ weight: 6
 last_reviewed_on: 2023-09-04
 review_in: 3 months
 ---
-# How to be an epic lead on the Design System squad
+# How to be an epic lead
 
 This guidance is aimed at helping new epic leads on the Design System squad get started in the role. 
 
