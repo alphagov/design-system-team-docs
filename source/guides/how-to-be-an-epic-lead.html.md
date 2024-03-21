@@ -36,7 +36,7 @@ Regular stand ups are a good way to keep an epic flowing at pace. It can allow t
 An epic lead should ensure all cards related to the epic are showing the correct status on the cycle board (eg "in progress"), the 'done whens' are updated, and cards are closed when completed. They should document all key decisions regarding the epic on the relevant GitHub card. This can serve as a reference point in future for the team.
 
 ### Coordinates mid-cycle demos and show & tell updates
-The epic lead does not need to deliver the demo or show & tell but does need organise the update on the behalf of the squad. This usually invovles having a conversation with the squad a few days before mid-cycle demo or show & tell to discuss what is being shown and by who.
+The epic lead does not need to deliver the demo or show & tell but does need organise the update on the behalf of the squad. This usually involves having a conversation with the squad a few days before mid-cycle demo or show & tell to discuss what is being shown and by who.
 
 ### Helps break gridlock when there’s uncertainty or ambiguity
 Squads can often become blocked if there's a complex decision to make. The epic lead should facilitate the decision making and propose a way forward. They can get support from product and delivery managers to do this.
