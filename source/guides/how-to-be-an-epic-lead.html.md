@@ -18,7 +18,7 @@ This role was introduced to the Design System squad in 2023.
 
 ## What is an epic lead?
   
-An epic lead is a pragmatic coordinator and is ideally interested, passionate or an expert in the subject matter.
+An epic lead is a pragmatic coordinator. They are interested in, passionate about, or an expert in the subject matter.
 
 They are the person assigned to care about seeing the work delivered, and a conduit between delivery manager, product manager and the epic.
 
@@ -33,7 +33,7 @@ This usually means creating cards in GitHub for the tasks assocaited with the ep
 Regular stand ups are a good way to keep an epic flowing at pace. It can allow the epic lead to spot blockers and escalate issues and concerns. If working alongside a delivery manager in a squad, they can support with this. During the scoping phase of a brief, it's useful to draft a high level delivery plan with healthy deadlines which can help keep an epic on track.  
 
 ### Ensures GitHub cards are kept up to date
-An epic lead should ensure all cards related to the epic are showing the correct status on the cycle board (eg "in progress"), the 'done whens' are updated and cards are closed when completed. They should document all key decisions regarding the epic on the relevant GitHub card. This can serve as a reference point in future for the team.
+An epic lead should ensure all cards related to the epic are showing the correct status on the cycle board (eg "in progress"), the 'done whens' are updated, and cards are closed when completed. They should document all key decisions regarding the epic on the relevant GitHub card. This can serve as a reference point in future for the team.
 
 ### Coordinates mid-cycle demos and show & tell updates
 The epic lead does not need to deliver the demo or show & tell but does need organise the update on the behalf of the squad. This usually invovles having a conversation with the squad a few days before mid-cycle demo or show & tell to discuss what is being shown and by who.
@@ -42,7 +42,7 @@ The epic lead does not need to deliver the demo or show & tell but does need org
 Squads can often become blocked if there's a complex decision to make. The epic lead should facilitate the decision making and propose a way forward. They can get support from product and delivery managers to do this.
 
 ### Escalates issues and blockers to the delivery manager and product manager
-If an issue or blocker appears which may hinder the squad's ability to deliver a brief within a cycle, the epic lead should flag this with the product and delivery managers. 
+If an epic lead finds an issue/blocker that impacts the squad’s ability to deliver, they should flag this with the product and delivery managers.
 
 ## What an epic lead doesn’t do
   
@@ -52,7 +52,7 @@ If an issue or blocker appears which may hinder the squad's ability to deliver a
 
 ## Working with the delivery manager and product manager
 
-An epic lead will meet with the delivery manager and product manager every three weeks for support in their role.
+An epic lead will meet with the team leads regularly for support in their role.
 
 This meeting can be used for a number of things such as:
 
