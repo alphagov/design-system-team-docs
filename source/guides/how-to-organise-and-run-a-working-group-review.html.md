@@ -4,7 +4,9 @@ weight: 5
 ---
 
 # How to organise and run a working group review
+
 We hold a working group review when:
+
 - we develop a new component or pattern
 - we make a significant iteration to an existing component or pattern
 - we make a change that will affect when users should use a component
