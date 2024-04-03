@@ -8,7 +8,7 @@ weight: 5
 The GOV.UK Design System leadership group is responsible for doing the work that makes the work, work.
 
 ## Who we are
-- Chris Ballantine-Thomas (Senior Interaction Designer)
+- Charlotte Downs (Senior Interaction Designer)
 - Kelly Lee (Senior Delivery Manager)
 - Oliver Byford (Lead Frontend Developer)
 - Trang Erskine (Senior Product Manager)
