@@ -28,7 +28,9 @@ There isn’t an up-to-date list of the email domains that have been approved as
 
 Occasionally we have people ask us for access to the cross-government Slack when their email hasn’t been approved as a government email address (see above). 
 
-To invite someone, just say `/invite <email>`in Slackbot (your private bot channel). The invite request then goes to the Slack workspace admins who decide whether to approve it.
+To invite someone, first try writing `/invite <user's email>` in Slackbot (your private bot channel). The invite request then goes to the Slack workspace admins who decide whether to approve it.
+
+We occasionally get scenarios where `/invite` doesn't work. Typically this is when a user's account has been deactivated, usually because of inactivity. To solve this, go to the [#ask-an-admin] channel on x-gov slack and ask the workspace admins to add or reactivate the user. Once an admin has responded, you can respond in kind to the user.
 
 The good news is that once someone’s invite has been approved by the Slack workspace admins, that person can then invite others on the same email domain themselves by using `/invite`.
 
@@ -161,6 +163,7 @@ We also hold bi-weekly sessions to give tags to Slack messages.
 [govuk-frontend-issues]: https://github.com/alphagov/govuk-frontend/issues
 [govuk-frontend-prs]: https://github.com/alphagov/govuk-frontend/pulls
 [guidance to invite the guest]: https://sites.google.com/a/digital.cabinet-office.gov.uk/gds/information-management/using-online-tools-at-gds/use-gds-slack
+[#ask-an-admin]: https://ukgovernmentdigital.slack.com/archives/C039WM501EK
 [latest comments]: https://github.com/alphagov/govuk-design-system-backlog/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
 [mailchimp]: https://login.mailchimp.com/
 [raise-issue]: https://design-system.service.gov.uk/community/propose-a-component-or-pattern/#2-raise-an-issue
