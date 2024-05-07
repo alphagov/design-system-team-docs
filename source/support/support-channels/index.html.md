@@ -39,7 +39,7 @@ We have previously added people outside the organisation to the GDS Support Slac
 
 To add a single channel guest:
 
-1. Follow the [guidance to invite the guest] (under ‘Guest accounts’). Cc in another member of our team for visibility on the IT ticket.
+1. Follow the [guidance to invite the guest on the GDS wiki][guidance-to-invite-the-guest] (under ‘Guest accounts’). Cc in another member of our team for visibility on the IT ticket.
 2. Post a message on our team Slack telling them about the single channel guest.
 3. When the user is added to the support Slack channel, post the following messages there:
   - “Hello x and welcome!”
@@ -162,8 +162,8 @@ We also hold bi-weekly sessions to give tags to Slack messages.
 [govuk-design-system-backlog-issues-list]: https://github.com/orgs/alphagov/projects/43/views/2
 [govuk-frontend-issues]: https://github.com/alphagov/govuk-frontend/issues
 [govuk-frontend-prs]: https://github.com/alphagov/govuk-frontend/pulls
-[guidance to invite the guest]: https://sites.google.com/a/digital.cabinet-office.gov.uk/gds/information-management/using-online-tools-at-gds/use-gds-slack
 [#ask-an-admin]: https://ukgovernmentdigital.slack.com/archives/C039WM501EK
+[guidance-to-invite-the-guest]: https://sites.google.com/a/digital.cabinet-office.gov.uk/gds/information-management/using-online-tools-at-gds/use-gds-slack
 [latest comments]: https://github.com/alphagov/govuk-design-system-backlog/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
 [mailchimp]: https://login.mailchimp.com/
 [raise-issue]: https://design-system.service.gov.uk/community/propose-a-component-or-pattern/#2-raise-an-issue
