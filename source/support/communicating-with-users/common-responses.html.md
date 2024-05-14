@@ -547,10 +547,11 @@ This will send you emails from every team that uses this platform so if you woul
 
 Teams from other organisations occasionally ask us to speak to them about the GOV.UK Design System. For example, teams in central and local government, the third sector and sometimes even the private sector.
 
-When we receive a meeting request, use our [meeting requests form] to help:
+When we receive a meeting request, ask the team on Slack whether there's interest in talking to the organisation. If so, delegate the response to those person(s).
 
-- decide whether to accept or reject the meeting request
-- prep for a meeting we've accepted
+If not, respond with this message:
+
+Thank you for taking the time to approach us with this request. Unfortunatley due to our current capacity we're unable to fulfill this request at this time. However we do have [resources available about our work](https://design-system.service.gov.uk/community/blogs-talks-podcasts/) which you may find useful.
 
 ## Misc
 
