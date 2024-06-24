@@ -79,7 +79,7 @@ When planning or facilitating a retro, there are a few things to remember:
 
 ## Other team meetings
 
-### Design System & Prototype dev catch up
+### Design System dev catch up
 This is a meeting between developers across the Design System, to make sure we’re all aware of what everyone is working on. It happens twice a week. Discussions are informal and relaxed, no need for prepared presentations.
 
 This catch-up gives developers time to:
