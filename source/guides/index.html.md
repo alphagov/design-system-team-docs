@@ -14,4 +14,5 @@ A collection of 'how to' guides to help you you do a thing.
 - [How to purchase something](./how-to-purchase-something/)
 - [How to seek approval for travel](./how-to-seek-approval-for-travel/)
 - [How to organise and run a working group review](./how-to-organise-and-run-a-working-group-review/)
+- [What to do when someone joins or leaves the team](./what-to-do-when-someone-joins-or-leaves-the-team/)
 - [Version Control](./version-control/)
