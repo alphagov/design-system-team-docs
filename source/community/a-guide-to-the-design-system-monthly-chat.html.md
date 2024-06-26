@@ -64,12 +64,11 @@ Comms are sent out via the mailing list on Mailchimp, and on our Slack channels.
 ## How to prepare for the session
 Before the event, ensure all volunteer roles are filled. This is the responsibility of the delivery manager assigned to community work.
 
-We should aim to have prepared the slide deck a week before the session so it can be shared with attendees in advance. This is generally best accessibility practice.
-If you are presenting or doing a demo, you should do a practice run before the session to check you are within the time allocated. You should check links and email addresses are correct and working. 
-If you are due to speak at the event, it is advised that you access Zoom via the desktop app rather than the browser. This is because accessing Zoom through a browser will prevent you from being able to “drive” the slide deck during your presentation. 
-If using the desktop app, ensure the correct permissions are in place on your PC so you’re able to screen share, and share audio and video. You can do this via going to ‘System Settings’ — ‘Privacy & Security’ — ‘Screen and System Audio Recording’ and enabling permission for Zoom. You may need to restart Zoom for this to take effect. Follow the same steps for enabling ‘Microphone’ and ‘Video” within ‘Privacy & Security’.
+We should aim to have prepared the slide deck a week before the session so it can be shared with attendees in advance. This is generally best accessibility practice. If you are presenting or doing a demo, you should do a practice run before the session to check you are within the time allocated. You should check links and email addresses are correct and working.
 
-If speaking, it’s helpful to have a quiet room to present from to limit background noise. It’s also helpful to have your speaker notes in the main slide deck. During the session, the host will be able to give you co-presenter permissions which enables you to view your speaker notes on the same screen as the slide.
+If you are due to speak at the event, it is advised that you access Zoom via the desktop app rather than the browser. This is because accessing Zoom through a browser will prevent you from being able to “drive” the slide deck during your presentation. During the session the host will be able to give you co-presenter permissions which enables you to view your speaker notes on the same screen as the slide. It’s also helpful to have a quiet room to present from to limit background noise.
+
+If using the desktop app, ensure the correct permissions are in place on your PC so you’re able to screen share, and share audio and video. You can do this via going to ‘System Settings’ — ‘Privacy & Security’ — ‘Screen and System Audio Recording’ and enabling permission for Zoom. You may need to restart Zoom for this to take effect. Follow the same steps for enabling ‘Microphone’ and ‘Video” within ‘Privacy & Security’.
 
 ## After the session
 The recording of the session should be uploaded to the team drive ready for editing. Transcripts should also be saved here and converted to a format that can be reviewed and edited by the team. Once edited, the recording and transcript can be shared with GDS comms & events team to be uploaded to YouTube. Once published, comms can be shared with our community to promote the video.
