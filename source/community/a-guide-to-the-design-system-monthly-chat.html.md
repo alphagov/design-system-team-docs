@@ -65,7 +65,7 @@ Comms are sent out via the mailing list on Mailchimp, and on our Slack channels.
 Before the event, ensure all volunteer roles are filled. This is the responsibility of the delivery manager assigned to community work.
 
 We should aim to have prepared the slide deck a week before the session so it can be shared with attendees in advance. This is generally best accessibility practice.
-
+If you are presenting or doing a demo, you should do a practice run before the session to check you are within the time allocated. You should check links and email addresses are correct and working. 
 If you are due to speak at the event, it is advised that you access Zoom via the desktop app rather than the browser. This is because accessing Zoom through a browser will prevent you from being able to “drive” the slide deck during your presentation. 
 If using the desktop app, ensure the correct permissions are in place on your PC so you’re able to screen share, and share audio and video. You can do this via going to ‘System Settings’ — ‘Privacy & Security’ — ‘Screen and System Audio Recording’ and enabling permission for Zoom. You may need to restart Zoom for this to take effect. Follow the same steps for enabling ‘Microphone’ and ‘Video” within ‘Privacy & Security’.
 
