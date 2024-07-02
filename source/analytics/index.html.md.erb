@@ -1,0 +1,154 @@
+---
+title: Analytics
+weight: 8
+---
+
+# Analytics
+
+We collect opt-in analytics data on the design system website to help us understand how users are using the design system to help us make product and design decisions.
+
+## What we use
+
+### Google Analytics
+
+We use Google Analytics (or GA) to analyse colleted user data. We can use GA to assess a wide variety of data such as number of visits to the design system over a period of time or most viewed pages with functionality to visualise the data and create custom reports.
+
+We maintain 2 GA properties:
+
+- [Data from the live website](https://analytics.google.com/analytics/web/#/p446981526/reports/intelligenthome)
+- [Data from website previews eg: temporary netlify links generated from pull requests](https://analytics.google.com/analytics/web/#/p446943224/reports/intelligenthome)
+
+### Google Tag Manager
+
+Google Tag Manager (or GTM) is how we collect and configure user data to send it to our GA properties. Through our [GTM workspace](https://tagmanager.google.com/#/container/accounts/341497290/containers/8094879/workspaces/1000045) we can define events on the website, including what triggers the event, what information to collect and how to present that information. These events are recorded in GA where they can be analysed.
+
+GTM uses 3 main concepts to manage event data:
+
+1. Tags are, functionally, events. This is where we define what a given event is and what data we send to GA when said event happens.
+2. Triggers define when an event has happened. We have a lot of options for defining when a trigger fires eg: when a link is clicked, when a user navigates to a particular page, when a user clicks something which matches a given CSS selector etc. Triggers and tags should have a one to one relationship, unless you want a trigger to fire 2 different events at the same time.
+3. Variables are the data we want to pass to triggers and tags. GTM includes a lot of in built events eg: page title, current URL, target URL if the user has clicked a link etc, however we can define our own custom variables. Custom variables use the context of where a trigger happens to define themselves eg: if your variables is the text contents of an element with a given CSS class, the page when the associated tag or trigger happens is where the variable will look for that element.
+
+Our GTM workspace uses a regex table variable attached to all tags called 'Table - GAID' which pipes event data to either our live property or preview property based on what the page domain is.
+
+## User consent
+
+Both GA and GTM require user consent to set cookies on the website, either via the cookie banner or [the cookies page](https://design-system.service.gov.uk/cookies/). As well as opting into tracking cookies, this also requires that a given user needs javascript turned on and no active ad blockers in order for the user's data to be sent to Google. Therefore the data we collect is always going to be an underestimation.
+
+## Collected events
+
+These tags are set up in GTM and sent and stored in GA when triggered by users on the website. Where possible, we try to follow [GOV.UK's analytics event schemas](https://docs.publishing.service.gov.uk/analytics/schema.html) when structuring our tag data.
+
+### Page view
+
+- Event name: page_view
+- Description: When a user views a page
+- Trigger: A user visiting a page
+- Data collected:
+    - page_h1: H1 of the page
+    - status_code: this only detects if the user is viewing a 404 page by checking if the page H1 is 'Page not found'
+    - page_section: Current website section eg: Styles, Components, Patterns
+    - query_string: Query string attached to the page's URL
+
+### External link click
+
+- Event name: external_link_click
+- Description: When a user clicks an external link and leaves the website
+- Trigger: A user clicking a link without the design system website domain
+- Data collected:
+    - link_url: location of the external link
+    - link_domain: the user's location on the website
+
+### Top navigation click
+
+- Event name: top_nav_click
+- Description: When a user clicks one of the main section navigation links in the website header (Styles, Components etc)
+- Trigger: A user clicking a link with the CSS class `app-navigation__link`
+- Data collected:
+    - text: text of clicked link
+
+### Sub navigation click
+
+- Event name: sub_nav_click
+- Description: When a user clicks a link in the header sub-navigation on small screens
+- Trigger: A user clicking a link which matches the CSS selector `.app-navigation__subnav-item .govuk-link`
+- Data collected:
+    - text: text of clicked link
+
+### Mobile menu button click
+
+- Event name: mobile_menu_button_click
+- Description: When a user clicks the 'menu' button to open or close the mobile navigation menu
+- Trigger: A user clicking a link with the CSS class `app-navigation__menu-button`
+- Data collected:
+    - state: text of clicked link
+
+### Sidebar navigation click
+
+- Event name: sidebar_nav_click
+- Description: When a user clicks a link in the sidebar of website sections
+- Trigger: A user clicking a link with the CSS class `app-subnav__link`
+- Data collected:
+    - text: text of clicked link
+
+### Section navigation click
+
+- Event name: section_nav_click
+- Description: When a user clicks a link in the small screen only link list at the bottom of section landing pages, intended to replace the sidebar for small screen users
+- Trigger: A user clicking a link which matches the CSS selector `.category-nav .govuk-link`
+- Data collected:
+    - text: text of clicked link
+
+### Site search
+
+- Event name: site_search
+- Description: When a user interacts with the search bar in the header
+- Trigger: We fire this trigger 'manually' via javascript on the website linked to the functionality of the site search autocomplete
+- Data collected: TBD
+
+### HTML/Nunjucks tab click
+
+- Event name: html_or_nunjucks_tab_click
+- Description: When a user clicks the HTML or Nunjucks tab in code examples
+- Trigger: A user clicking an element with the data attribute `data-track`
+- Data collected:
+    - tab: text of clicked tab
+
+### Copy code button click
+
+- Event name: copy_code_button_click
+- Description: When a user clicks the 'copy code' button in code examples
+- Trigger: A user clicking an element which matches the CSS selector `.app-copy-button, js-copy-button`
+- Data collected:
+    - copy_code_button: which tab was copied from. Uses custom javascript to find the nearest instance of `.app-tabs__container`
+
+## Making changes to GTM
+
+In order to make changes to GTM, the change has to be reviewed, approved and published. All team members have the ability to submit changes to GTM, however only developers have the ability to approve and publish changes.
+
+### Using workspaces
+
+When working on a change, it is recommended to create a new workspace in GTM. This reduces the chance of multiple changes to GTM at the same time overlapping and creating conflicts. You can read more in [Google's documentation on GTM workspaces](https://support.google.com/tagmanager/answer/7059647?hl=en).
+
+### Previewing your changes
+
+Before submitting a change, you should preview your changes to make sure they are working as expected and that you haven't impacted anything other tags. You can read more in [Google's documentation on previewing and debugging changes](https://support.google.com/tagmanager/answer/6107056?hl=en).
+
+### Review and publishing process
+
+Once you're happy with your changes, you should submit them for review. You can read more in [Google's documentation on publishing and reviewing in GTM](https://support.google.com/tagmanager/answer/6107163?hl=en).
+
+There isn't a way to request review from a group of GTM users so once you've submitted your change, prompt the developers on the team to review it via slack.
+
+When a reviewing a change, it is recommended to talk directly to the team member who submitted the change to work through any necessary edits together. This is because GTM doesn't notify users when a change request has changed state eg: a developer has sent a change back with recommendations, so communicating directly avoids changes getting missed.
+
+After a change has been approved, it needs to be published. GTM will take you through the publishing process to create a new version of our GTM container automatically after approving. Doing so will delete the workspace created to make and test the change.
+
+You then need to update the default workspace which needs to be done manually. This can be done by going to the default workspace, clicking 'submit' and clicking 'update now'. See the documentation on workspaces above for more details.
+
+## Joiners and leavers process
+
+When a new team member joins, they should be added to GA and GTM. This can be done by anyone with the 'Administrator' role in both GA and GTM, developers and team leads in both cases.
+
+When a team member leaves, their access to the GA properties and the GTM workspace should be revoked.
+
+Both these tasks can be handled in the admin interfaces of GA and GTM.
