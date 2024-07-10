@@ -4,6 +4,7 @@ weight: 1
 last_reviewed_on: 2024-07-10
 review_in: 6 months
 ---
+
 # Incidents
 
 An incident is an unexpected event or error which disrupts the design system as a service. These can prevent users from accessing our guidance and code, impact government services, or threaten the security and trust of service teams and end users. When incidents happen, we need to be able to identify them and respond to them.
@@ -61,18 +62,18 @@ Incidents are varied and can require different roles to resolve. You also may di
 
 The incident team at this point should start an incident report so that they can keep track of the incident, its impact, its severity, a timeline of events and, once resolved, a list of actions taken out of an incident review. You can find a template for incident reports, as well as a record of all previous incidents by year, [in the INCIDENTS folder in the team drive](https://drive.google.com/drive/u/0/folders/1plXDUGFIoyzWubWNC9J_IjMiEN8eh9pO).
 
-The nature of incidents means that you may not have time to keep the report up to date as the incident is happening. If the incident team are unable to do this, you should update the incident at the earliest opportunity.
+The nature of incidents means that you may not have time to keep the report up to date as the incident is happening. If the incident team are unable to do this, you should update the incident report at the earliest opportunity.
 
 ### Decide on severity
 
 You should decide on a severity score for your incident as soon as possible. We have 4 levels of incident severity:
 
-| Priority | Example |
-| - | - |
-| P1 | Malicious code in govuk-frontend |
-| P2 | Malicious package masquerading as govuk-frontend |
-| P3 | Design system website is down |
-| P4 | Blocking bug introduced into a govuk-frontend component |
+| Priority | Example                                                 |
+| -------- | ------------------------------------------------------- |
+| P1       | Malicious code in govuk-frontend                        |
+| P2       | Malicious package masquerading as govuk-frontend        |
+| P3       | Design system website is down                           |
+| P4       | Blocking bug introduced into a govuk-frontend component |
 
 Once severity is identified, add it to the incident report. It may take a while to identify severity or the severity may change. A severity score should be decided at least before the incident review, but ideally much earlier.
 
