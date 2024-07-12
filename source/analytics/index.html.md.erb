@@ -201,6 +201,19 @@ After a change has been approved, it needs to be published. GTM will take you th
 
 You then need to manually update the default workspace by going to the default workspace, selecting **Submit** and then selecting **Update now** on the orange banner in the submit view. See the documentation on workspaces above for more details.
 
+### Adding custom dimensions to reflect your changes
+
+Custom dimensions are how GA recognises custom parameters set up in GTM tags. In order to see custom parameters from tags in GA event reporting, you need to set up a custom dimension for each of your parameters. Only admins can update our custom dimensions so ask a team lead or a developer if you don't have the necessary permissions.
+
+You can read [Google's documentation on custom dimensions](https://support.google.com/analytics/answer/14240153?hl=en) for more details, however for our purposes, to add a custom dimension:
+
+1. in our GA property, go to Admin in the bottom left corner and then to Custom definitions under the Data display heading
+2. click the Create custom dimension button in the top right corner
+3. give your dimension a name and a brief description if necessary. Keep the scope of the dimension set to 'Event'
+4. set the event parameter as the name of the custom parameter that you set in GTM. If your event has been active for over 24 hours, GA may suggest it for you. If not, type it out as it is in GTM
+
+Custom dimensions take roughly 24 hours for GA to start reporting on them. It's recommended that you set up your custom dimensions ahead of deploying your tag changes to minimise loss of data.
+
 ## Joiners and leavers process
 
 When a new team member joins, a developer or a team lead needs to add them to GA and GTM. Developers and team leads have the  'Administrator' role in both GA and GTM, which lets them add team members.
