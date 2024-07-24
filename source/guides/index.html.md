@@ -15,4 +15,5 @@ A collection of 'how to' guides to help you you do a thing.
 - [How to seek approval for travel](./how-to-seek-approval-for-travel/)
 - [How to organise and run a working group review](./how-to-organise-and-run-a-working-group-review/)
 - [What to do when someone joins or leaves the team](./what-to-do-when-someone-joins-or-leaves-the-team/)
+- [Using Zoom for team and community workshops](./using-zoom-for-team-and-community-workshops/)
 - [Version Control](./version-control/)
