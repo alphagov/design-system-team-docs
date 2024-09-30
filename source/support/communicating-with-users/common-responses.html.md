@@ -277,6 +277,17 @@ The GOV.UK Design System styles and components had a DAC audit done in May 2019 
 >
 > As headers and footers tend to be the components that deviate most from GOV.UK’s when re-branded, we recommend building them from scratch rather than adapting the GOV.UK one
 
+### Downloading the GOV.UK Crown
+
+For services, the best way to update the crown is to update the version of GOV.UK Frontend that the service is using. This will make sure it's consistent with the header elsewhere on GOV.UK. Please see our guidance on [how to update the crown in the header](https://design-system.service.gov.uk/components/header/#update-to-the-new-govuk-logo-between-19february-and-1march).
+
+For use outside of online services (eg. in a design file), we only provide the SVG files thereafter. There'd be too many variation in file resolutions to generate for other formats (PNG, for example). Most image editors will allow users to convert the SVG to another format if they need.
+
+- <a href="/images/govuk-crown.svg" download>Download new crown logo, black on transparent background</a>
+- <a href="/images/govuk-crown-and-wordmark.svg" download>Download new crown logo with GOV.UK wordmark, black on transparent background</a>
+
+[GOV.UK Frontend's favicon](https://github.com/alphagov/govuk-frontend/blob/main/packages/govuk-frontend/src/govuk/assets/images/favicon.svg) can also offer a white on black background version (with a little padding around) of the crown logo.
+
 ### Reporting misuse of GOV.UK brand elements (e.g. logo, Transport font)
 
 If a site, service or product (inside or outside of government) is found to be in breach of the [Service Manual’s rules on making a service look like GOV.UK].
