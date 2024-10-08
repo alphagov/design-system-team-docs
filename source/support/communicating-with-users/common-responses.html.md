@@ -295,7 +295,7 @@ For use outside of online services (eg. in a design file), we only provide the S
 ### Deadline for updating to the new coat of arms
 
 > There is no specific deadline to update the coat of arms in the footer of your service. 
-> 
+>
 > You should update at your earliest convenience. This will ensure consistency across all GOV.UK pages, building trust and reducing risk of fraud for citizens using your service
 
 ### New coat of arms file and format
