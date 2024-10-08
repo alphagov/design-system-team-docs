@@ -288,6 +288,28 @@ For use outside of online services (eg. in a design file), we only provide the S
 
 [GOV.UK Frontend's favicon](https://github.com/alphagov/govuk-frontend/blob/main/packages/govuk-frontend/src/govuk/assets/images/favicon.svg) can also offer a white on black background version (with a little padding around) of the crown logo.
 
+### Access and usage of new coat of arms, crest,  department logo, cypher etc.
+
+We only have the image of the coat of arms for use on the  GOV.UK footer. If you need access or usage information to other assets, you will need to email the Government Communication Service (GCS) branding@cabinetoffice.gov.uk.
+
+### Deadline for updating to the new coat of arms
+
+There is no specific deadline to update the coat of arms in the footer of your service. 
+
+You should update at your earliest convenience. This will ensure consistency across all GOV.UK pages, building trust and reducing risk of fraud for citizens using your service
+
+### New coat of arms file and format
+
+You can extract the image from GOV.UK Frontend v4.9.0 or v5.7.0. We provide the image as a SVG file. You can convert this to the format you need. 
+
+### Department crests
+
+Department crests are being updated on GOV.UK. If you need access to the assets you can contact branding@cabinetoffice.gov.uk.
+
+### Update of new coat of arms for v3
+
+There is no update for services still on V3 of GOV.UK Frontend. We generally do not support older versions of GOV.UK Frontend. Additionally, when we released V3.15.0 with the new crown logo, we saw very few services updating. 
+
 ### Reporting misuse of GOV.UK brand elements (e.g. logo, Transport font)
 
 If a site, service or product (inside or outside of government) is found to be in breach of the [Service Manual’s rules on making a service look like GOV.UK].
