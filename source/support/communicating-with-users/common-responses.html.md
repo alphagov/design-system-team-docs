@@ -551,7 +551,7 @@ When we receive a meeting request, ask the team on Slack whether there's interes
 
 If not, respond with this message:
 
-Thank you for taking the time to approach us with this request. Unfortunatley due to our current capacity we're unable to fulfill this request at this time. However we do have [resources available about our work](https://design-system.service.gov.uk/community/blogs-talks-podcasts/) which you may find useful.
+Thank you for taking the time to approach us with this request. Unfortunately due to our current capacity we're unable to fulfil this request at this time. However we do have [resources available about our work](https://design-system.service.gov.uk/community/blogs-talks-podcasts/) which you may find useful.
 
 ## Misc
 
