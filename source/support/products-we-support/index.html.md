@@ -11,7 +11,6 @@ review_in: 6 months
 
 - [GOV.UK Design System website]
 - [GOV.UK Frontend] – 4.x (until at least December 2024) and 5.x
-- [Community backlog]
 
 ## Legacy products
 
