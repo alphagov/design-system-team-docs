@@ -109,6 +109,10 @@ Once an incident is resolved, you should have a complete report from which to wo
 
 Some incidents can be de-escalated quickly but have a long tail of extra actions and 'clean up' following a single major fix. For example if there's malicious code in govuk-frontend which we link to in documentation, the primary fix would be removing the malicious code and the long tail would be removing it from documentation. It's up to the incident team on when an incident is resolved but if in doubt, if the primary negative impact to the service has been removed, the incident can be called 'resolved' even if there's more to do.
 
+### Add the incident to the DSP monthly incident review
+
+DSP holds a monthly incident review to review any incidents that have occurred over the past month in DSP teams. It helps spread the knowledge of what happened and how it was fixed, as well as keep track of the outstanding actions. Once the incident is resolved, the tech lead is responsible for adding the incident to the rolling notes of this meeting and ensuring someone from the team attends the review to share what happened.
+
 ### Have an incident review
 
 There should be an incident review as soon as possible after the incident is resolved. The comms lead will typically organise this but anyone involved in the incident can take this on. Ideally everyone involved in the incident will be present. Where appropriate, you may want to include product managers, delivery managers, members of SMT and others.
