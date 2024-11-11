@@ -55,7 +55,7 @@ There are a few tools you can use to record decisions:
 - an update to the [community backlog](https://github.com/orgs/alphagov/projects/43/views/2) entry for a particular style, component or pattern
 - a comment on the relevant GitHub issue
 - a GitHub repository such as [govuk-design-system-architecture here](https://github.com/alphagov/govuk-design-system-architecture)
-- a design history such as [the ones created here by the Department for Education](​https://design-histories.education.gov.uk/)
+- a design history detailed in [the guide here](https://x-govuk.github.io/govuk-design-history/)
 
 ## Ask for help
 
