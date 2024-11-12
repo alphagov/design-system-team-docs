@@ -547,10 +547,11 @@ This will send you emails from every team that uses this platform so if you woul
 
 Teams from other organisations occasionally ask us to speak to them about the GOV.UK Design System. For example, teams in central and local government, the third sector and sometimes even the private sector.
 
-When we receive a meeting request, use our [meeting requests form] to help:
+When we receive a meeting request, ask the team on Slack whether there's interest in talking to the organisation. If so, delegate the response to those person(s).
 
-- decide whether to accept or reject the meeting request
-- prep for a meeting we've accepted
+If not, respond with this message:
+
+Thank you for taking the time to approach us with this request. Unfortunately due to our current capacity we're unable to fulfil this request at this time. However we do have [resources available about our work](https://design-system.service.gov.uk/community/blogs-talks-podcasts/) which you may find useful.
 
 ## Misc
 
@@ -667,7 +668,6 @@ A hard thing with providing a nav / subnav is that it changes quite a lot depend
 [Download the font files]: https://github.com/alphagov/fonts/tree/master/fonts/non-web
 [GDS Request a thing]: https://www.gov.uk/guidance/contact-the-government-digital-service/request-a-thing
 [government community]: https://www.gov.uk/service-manual/communities
-[meeting requests form]: https://docs.google.com/forms/d/e/1FAIpQLSdx7xrrnHsGVPxsPtz6DY0f0bVKKc9M41o0Uudr-plBYjAVjg/viewform?usp=sf_link
 [progressive enhancement principles]: https://www.gov.uk/service-manual/technology/using-progressive-enhancement
 [Service Manual’s rules on making a service look like GOV.UK]: https://www.gov.uk/service-manual/design/making-your-service-look-like-govuk
 [service manual page]: https://www.gov.uk/service-manual/technology/using-progressive-enhancement#using-javascript-frameworks
