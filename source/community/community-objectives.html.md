@@ -10,7 +10,7 @@ This page details our community objectives in 2025. We will review progress agai
 
 ### What we want to do
 
-- each core community members (ie people building GOV.UK services) frequently
+- reach core community members (ie people building GOV.UK services) frequently
 - reach peripheral community members (eg private sector, international design systems, local government) at least once a year
 - be seen as leaders of design system so we draw new users into our community, and adds legitimacy and trust to our product
 - attract new members to our community and ensuring they feel valued
