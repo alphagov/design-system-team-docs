@@ -51,7 +51,11 @@ There are multiple slots available with 5 mins presenting time and 2 mins for qu
 
 When facilitating show & tell or mid-cycle demo, keeping time is probably the most important thing as it’s very easy to run over. Communicating clearly at the beginning of the session that each talk has 15 mins and you will intervene if it runs over helps with timekeeping.
 
-Start the recording. Introduce each of the speakers and their topics, and encourage questions afterwards.
+Show & tell and mid-cycle demo are hosted on Zoom. This allows the team to familiarise themselves with the platform, which we use for community events. 
+
+If you are facilitation show & tell you need to log into the team zoom account and click on the Zoom link in the meeting invite. This will start the meeting for everyone.
+
+Start the recording and select 'Record to this computer'. Introduce each of the speakers and their topics, and encourage questions afterwards. You need to upload the recording to the relevant cycle in the shared Google drive.
 
 ### Cycle planning 
 
