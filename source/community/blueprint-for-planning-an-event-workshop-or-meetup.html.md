@@ -5,11 +5,7 @@ weight: 5
 
 # Blueprint for planning an event, workshop or meetup
 
-This blueprint uses the MoSCoW prioritisation system:
-
-- Must
-- Should
-- Could
+This blueprint uses the MoSCoW prioritisation system (must, should, could) to help prioritise planning activities.
 
 ## Must
 
