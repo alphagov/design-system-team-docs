@@ -9,7 +9,7 @@ This page details what factors we consider when prioritising a roadmap or a cycl
 
 ## Should we do this?
 
-- Does this fit with our (product strategy)[https://govuk-design-system-team-docs.netlify.app/what-we-do/future-of-the-govuk-design-system/]?
+- Does this fit with our [product strategy](https://govuk-design-system-team-docs.netlify.app/what-we-do/future-of-the-govuk-design-system/)?
 - Is this something we need to do to keep the product running? (includes activities such as comms, marketing, engagement and securing budget)
 - Is this something we need to do to make sure we’re still relevant to our users?
 - Is this something we need to do because of external factors?
