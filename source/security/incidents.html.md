@@ -28,6 +28,7 @@ Additionally, consider if a given issue needs to be solved immediately or if the
 - Malicious code being shipped in govuk-frontend
 - Linking to a malicious resource in our documentation eg: a port of govuk-frontend that contains malicious code
 - A serious accessibility bug is shipped/discovered in govuk-frontend
+- A majority of our GitHub PRs are failing
 
 ### Examples of things that are not incidents
 
@@ -57,6 +58,8 @@ You should assign 2 roles to help manage the incident:
 2. A comms lead. This person will be responsible for communicating the incident and its status to the team, across our community channels and to key stakeholders.
 
 Incidents are varied and can require different roles to resolve. You also may discover exactly which roles you need as the incident progresses. It's recommended to request roles on the team as you need them.
+
+It is almost always helpful to hop on a video call with each other while dealing with an incident.
 
 ### Start an incident report
 
