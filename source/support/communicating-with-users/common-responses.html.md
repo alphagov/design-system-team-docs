@@ -99,7 +99,7 @@ Emails offering feedback or suggestions on government policy or politicians shou
 
 Our current plan is to wait until we've updated all the components for the brand refresh before releasing the next breaking release of GOV.UK Frontend, which we're expecting to take us until close to the end of the year.
 
-We're aware the longer it takes, the more deprecated features we may have to remove in that breaking release (or default enabling of features like for the File upload), so we're trying to keep an eye on that and may revisit this as we review our roadmap.
+We're keeping an eye on the number of deprecated features we'll need to remove, and new features we'll want to enable by default. The longer the brand refresh takes, the more of these will accrue, so we may revist this as we review our roadmap.
 
 ### Updated organisation colours in GOV.UK Frontend v5.5
 
