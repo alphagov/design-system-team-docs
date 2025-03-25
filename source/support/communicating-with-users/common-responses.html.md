@@ -95,6 +95,12 @@ Emails offering feedback or suggestions on government policy or politicians shou
 
 ## Latest release questions
 
+### When is the next breaking release happening
+
+Our current plan is to wait until we've updated all the components for the brand refresh before releasing the next breaking release of GOV.UK Frontend, which we're expecting to take us until close to the end of the year.
+
+We're aware the longer it takes, the more deprecated features we may have to remove in that breaking release (or default enabling of features like for the File upload), so we're trying to keep an eye on that and may revisit this as we review our roadmap.
+
 ### Updated organisation colours in GOV.UK Frontend v5.5
 
 #### What has changed with organisation colours
