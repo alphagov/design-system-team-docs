@@ -5,14 +5,7 @@ weight: 5
 
 # Leadership group
 
-The GOV.UK Design System leadership group is responsible for doing the work that makes the work, work.
-
-## Who we are
-- Charlotte Downs (Senior Interaction Designer)
-- Kelly Lee (Senior Delivery Manager)
-- Oliver Byford (Lead Frontend Developer)
-- Romaric Pascal (Senior Frontend Developer)
-- Trang Erskine (Senior Product Manager)
+The [GOV.UK Design System leadership group](https://design-system.service.gov.uk/design-system-team/#team-leads) is responsible for doing the work that makes the work, work.
 
 ## What we do
 - evolve and adapt the team’s strategic direction
