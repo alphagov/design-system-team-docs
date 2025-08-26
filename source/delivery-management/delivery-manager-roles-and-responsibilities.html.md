@@ -1,0 +1,37 @@
+delivery-manager-roles-and-responsibilities.html.md
+
+---
+title: delivery manager roles and responsibilities
+weight: 5
+---
+
+# Delivery manager roles and responsibilities
+This guide documents responsibilities of the various delivery managers we have on the GOV.UK Design System team.
+
+## Delivery manager / associate delivery manager
+The delivery manager(s) will be accountable for the day to day delivery of squad work on the team. In a cycle it’s possible they could work on 1-3 squads, depending on priorities. 
+
+Responsibilities include:
+
+- acting as a conduit between the squads and Design System leadership, reporting on delivery progress, escalating risks and issues, and challenging delivery timeframes and expectations when necessary
+- determining most appropriate ways of working and delivery methods for each squad you’re working with
+- working closely with subject matter experts in squads to facilitate decision making and unblock issues which impede delivery 
+- organising facilitation of team ceremonies, and updating rotas
+- management of team health, values and norms through regular one-to-ones with team members
+- ensuring work is visible, tracked and up to date on tools such as GitHub Projects and Jira
+- managing team leave, sickness and availability
+- purchasing and billing of tooling and infrastructure 
+- ownership of the team playbook
+- onboarding / offboarding of team members
+
+## Lead delivery manager
+
+The Lead Delivery Manager is responsible for managing delivery expectations external to the team, and providing support to the delivery manager working with squads.
+
+- support the development of product strategy and benefits case
+- build a roadmap to deliver product strategy
+- determine cycle briefs (in collaboration with other team leads)
+- risk management and escalation external to the team, and management of stakeholder expectations
+- governance and reporting to senior leadership
+- recruitment and contractor management
+- support, consultation and coaching of other delivery managers on the team
