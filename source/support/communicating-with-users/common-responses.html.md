@@ -16,6 +16,10 @@ Below is a list of the most common responses and redirects that we can use.
 
 You can also check if there’s a relevant [government community] to refer users to.
 
+## Brand refresh
+
+See our [brand refresh Support Q&A](https://docs.google.com/document/d/15EzeTBUKsCbKFe9020RexR3SkxvejaA79CH9pMQaKWk/edit?tab=t.0#heading=h.dbif3uka2c).
+
 ## Generic responses
 
 ### User has not responded for 5 working days
