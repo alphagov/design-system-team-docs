@@ -10,7 +10,7 @@ This guide documents the expectations we have of those who work on the GOV.UK De
 Core hours are 10am-4pm. Please try to avoid arranging meetings outside of those times and over the lunch period.
 
 ## Leave
-You should ask Kelly if you wish to take leave. If Kelly is not here, then Izabela or Kam. Please do not seek approval for leave from the team on shared Slack channels. Delivery managers are responsible for team capacity and how that impacts delivery, so it’s their decision as to whether leave can be taken.
+You should ask Izabela and Kam if you wish to take leave. If Izabela and Kam are not here, then Kelly. Please do not seek approval for leave from the team on shared Slack channels. Delivery managers are responsible for team capacity and how that impacts delivery, so it’s their decision as to whether leave can be taken.
 
 Also, please book leave as far in advance as possible. The team leads need this information when planning cycles of work.
 
@@ -45,13 +45,13 @@ All ceremonies other than retro are recorded. It’s important that you make tim
 
 Please be on time to these meetings, and any other facilitated workshops. A lot of effort goes into planning a workshop. Please be respectful of that. Please also let facilitators know in advance if you can’t join by declining an invitation. Please don’t leave invitations without a response as this causes uncertainty for the facilitator.  If you’re not sure whether you can attend, utilise the ‘Maybe’ response with your reason.
 
-During show & tell, a playback is expected from every squad. It is the epic lead’s responsibility to organise the playback, however it does not need to be the epic lead to delivers it. We encourage all squad members to get involved in sharing their work with the wider team.
+During show & tell, a playback is expected from every squad. It is the squad delivery manager's responsibility to organise the playback, however it should not be the delivery manager who delivers it. We encourage all squad members to get involved in sharing their work with the wider team.
 
 ## Keep GitHub updated
 
 You are expected to keep the GitHub cycle board up to date, notably the briefs. Delivery managers on the team use this to monitor pace and progress, and use the information for reporting purposes. Visibility of work is a core principle of agile teams.
 
-During reflection week, the epic lead should be closing the current brief and removing the card from the cycle board. Small stories can be created where appropriate for work which is leftover and added to the small stories epic to be tracked. Call on a delivery manager if you need help doing this.
+During reflection week, the squad should be closing the current brief and removing the card from the cycle board. Small stories can be created where appropriate for work which is leftover and added to the small stories epic to be tracked. Call on a delivery manager if you need help doing this.
 
 ## Using Slack
 
