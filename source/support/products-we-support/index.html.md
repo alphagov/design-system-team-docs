@@ -15,7 +15,7 @@ review_in: 6 months
 
 ## Legacy products
 
-We no longer support a number of retired "legacy" products which GOV.UK Frontend and GOV.UK Design System replaced:
+We no longer support the following retired "legacy" products, which GOV.UK Frontend and GOV.UK Design System replaced:
 
 - [GOV.UK Elements]
 - [GOV.UK Frontend Toolkit]

@@ -630,13 +630,13 @@ Also, departmental design systems often document patterns used for ‘admin’ o
 
 Some caseworking design patterns from when Chris from Home Office used to run a cross gov caseworking design community <https://cross-gov-caseworking.herokuapp.com/>
 
-### Migrating to GOV.UK Frontend from our retired products (GOV.UK Elements, GOV.UK Frontend Toolkit, GOV.UK Template)
+### Migrating to GOV.UK Frontend from our retired products (GOV.UK Elements, GOV.UK Frontend Toolkit and GOV.UK Template)
 
-While we don't support these products directly, we _do_ support migrating from them to GOV.UK Frontend.
+While we do not support these products directly, we do support migrating from them to GOV.UK Frontend.
 
-We have [migration instructions](https://frontend.design-system.service.gov.uk/v4/migrating-from-legacy-products/) and a [migration reference](https://frontend.design-system.service.gov.uk/v4/migration-reference/) containing variable name changes between products.
+We have [migration guidance](https://frontend.design-system.service.gov.uk/v4/migrating-from-legacy-products/) and a [migration reference](https://frontend.design-system.service.gov.uk/v4/migration-reference/) containing name changes of variables between products.
 
-The general process is to follow the instructions to migrate to GOV.UK Frontend v4, then from there update to newer versions of GOV.UK Frontend by following our release notes.
+The general process is to follow the guidance to migrate to GOV.UK Frontend v4, then from there update to newer versions of GOV.UK Frontend by following our release notes.
 
 Migrating to at least GOV.UK Frontend v4.10 will allow a service to have the basic rebrand elements (header, footer and cookie banner).
 
