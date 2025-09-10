@@ -15,19 +15,13 @@ review_in: 6 months
 
 ## Legacy products
 
-We support a number of ‘legacy’ products which GOV.UK Frontend and GOV.UK Design System replaced, which we still need to provide some support for:
+We no longer support a number of retired "legacy" products which GOV.UK Frontend and GOV.UK Design System replaced:
 
 - [GOV.UK Elements]
 - [GOV.UK Frontend Toolkit]
 - [GOV.UK Template]
 
-The websites and repositories for these projects should state something along the lines of:
-
-> The Government Digital Service (GDS) is retiring [Product Name] following the launch of the GOV.UK Design System. [Product Name] will remain available to you if you are currently using it but will no longer be maintained. GDS will only roll out major bug fixes and security patches.
-
-What we mean by ‘major bug fixes and security patches’ is loosely defined, which allows us some flexibility, but broadly speaking we expect to fix issues which affect the accessibility or usability of a service using our legacy products. We would only fix ‘cosmetic’ bugs if they were severe enough that they would otherwise reduce the trust the user has in the service.
-
-Security issues should be addressed, but only if they impact the services that use them.
+However, we do support users who need to [migrate from these products to GOV.UK Frontend](https://frontend.design-system.service.gov.uk/v4/migrating-from-legacy-products/#migrate-one-component-at-a-time).
 
 ## No longer supported
 
