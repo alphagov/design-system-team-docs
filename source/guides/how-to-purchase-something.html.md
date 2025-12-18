@@ -7,7 +7,7 @@ weight: 5
 There are a number of steps to follow when purchasing something for use on the team. The team leads can help with this process.
 
 ## How to purchase something new
-Get in touch with the team leads. In order to seek spend approval on your behalf, they will need to know:
+Get in touch with the delivery manager (Izabela). In order to seek spend approval on your behalf, they will need to know:
 
 - what it is
 - what it will be used for
