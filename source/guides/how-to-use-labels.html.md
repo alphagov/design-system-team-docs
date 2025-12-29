@@ -10,9 +10,9 @@ weight: 5
 | - | - | - | - | - |
 | Epic | ![Swatch 0b0c0c](https://github.com/user-attachments/assets/52df056c-6ea1-4028-a238-aa204a5d7104) | #0b0c0c | Use this label for issues which are epics |
 | Brief | ![Swatch 484949](https://github.com/user-attachments/assets/244dbac9-6ec6-4426-9a36-c96d0c89a6bf) | #484949 | Use this label for issues which are briefs |
-| Task | ![[Swatch cecece](https://github.com/user-attachments/assets/c9b2a59c-ee3a-4854-8817-0168344c50fc | #cecece | Use this label for issues which are a task associated with a brief |
+| Task | ![[Swatch cecece](https://github.com/user-attachments/assets/c9b2a59c-ee3a-4854-8817-0168344c50fc) | #cecece | Use this label for issues which are a task associated with a brief |
 | Small story | ![Swatch f3f3f3](https://github.com/user-attachments/assets/6088f1a8-8059-453a-82d1-e8271f6529bd) | #f3f3f3 | Use this label for issues which are small stories |
-| Stretch | ![[Swatch 54319f](https://github.com/user-attachments/assets/8267a2d4-3414-471c-8f6b-11eeca39ea85) | #54319f | Use this label for issues which are stretch goals in a brief |
+| Stretch | [Swatch 54319f](https://github.com/user-attachments/assets/8267a2d4-3414-471c-8f6b-11eeca39ea85) | #54319f | Use this label for issues which are stretch goals in a brief |
 | ⚠️ Unplanned work | ![Swatch ca3535](https://github.com/user-attachments/assets/182e6acb-d777-4f01-8cee-192086cff0f3) | #ca3535 | Use this label for work we do which is not on the roadmap |
 
 ## Labels for identifying issues
