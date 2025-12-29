@@ -15,7 +15,18 @@ We use Google Analytics (GA) to analyse collected user data. We can use GA to as
 - number of visits to the Design System website over a period of time
 - most viewed pages
 
-GA also lets us visualise the data and create custom reports.
+GA also lets us visualise the data and create custom reports and explorations.
+
+We have a set of custom explorations for each section of the GOV.UK Design System website:
+- [Homepage](https://analytics.google.com/analytics/web/#/analysis/a72121642p446981526/edit/i6OT6xmzSQ6pI3o0LUGOWQ)
+- [Get started](https://analytics.google.com/analytics/web/#/analysis/a72121642p446981526/edit/igLFn24gQiaxW11ojKlNag)
+- [Styles](https://analytics.google.com/analytics/web/#/analysis/a72121642p446981526/edit/wp1wjBO2Qv-6l8M5CMA5NQ) 
+- [Components](https://analytics.google.com/analytics/web/#/analysis/a72121642p446981526/edit/E5gNNdKjR9m4EOvslm1C-g)
+- [Patterns](https://analytics.google.com/analytics/web/#/analysis/a72121642p446981526/edit/u8oRSD7QSlyXGeQHcj3_RQ)
+- [Community](https://analytics.google.com/analytics/web/#/analysis/a72121642p446981526/edit/VVK6VLsBThSNARxrWAOtZQ) 
+- [Accessibility](https://analytics.google.com/analytics/web/#/analysis/a72121642p446981526/edit/S9eRClV4SZi_Ocs4-LfvMw)
+
+If you want to make edits to the explorations, create a copy to make any changes. 
 
 We maintain 2 GA properties:
 
