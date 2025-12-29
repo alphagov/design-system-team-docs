@@ -18,5 +18,6 @@ A collection of 'how to' guides to help you you do a thing.
 - [Version Control](./version-control/)
 
 # Using GitHub
+
 - [How to use GitHub to manage your work](./how-to-use-GitHub-to-manage-your-work/)
 - [How to create a brief](./how-to-create-a-brief/)
