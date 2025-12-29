@@ -4,6 +4,16 @@ weight: 5
 ---
 # How to use labels on GitHub
 
+This guide details how to use the labelling system on our GitHub repositories. 
+
+Labels are used in the following repositories:
+- [govuk-design-system](https://github.com/alphagov/govuk-design-system)
+- [govuk-frontend](https://github.com/alphagov/govuk-frontend)
+- [design-system-team-internal](https://github.com/alphagov/design-system-team-internal)
+- [govuk-frontend-docs](https://github.com/alphagov/govuk-frontend-docs)
+
+## How to update labels
+
 ## Labels for workflow management
 
 | Label | Label colour | Hex code | Description | 
