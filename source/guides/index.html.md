@@ -19,6 +19,5 @@ A collection of 'how to' guides to help you you do a thing.
 
 # Using GitHub
 
-- [How to use GitHub to manage your work](./how-to-use-GitHub-to-manage-your-work/)
 - [How to create a brief](./how-to-create-a-brief/)
 - [How to create a sub-issue](./how-to-create-a-sub-issue/)
