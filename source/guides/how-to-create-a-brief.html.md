@@ -25,25 +25,25 @@ If a brief is specific to the Design System website, use the [govuk-design-syste
 
 ## Creating a brief
 
-Step 1: Navigate to the “Issues” tab.
+**Step 1:** Navigate to the “Issues” tab.
 
-Step 2: Select the green “New issue” button.
+**Step 2:** Select the green “New issue” button.
 
-Step 3: Select the “Cycle brief” template.
+**Step 3:** Select the “Cycle brief” template.
 
-Step 4: Complete the “## Brief” section which contains a prompt about the content you should include.
+**Step 4:** Complete the “## Brief” section which contains a prompt about the content you should include.
 
-Step 5: Complete the “## Squad” section by tagging your fellow squad members via their GitHub username.
+**Step 5:** Complete the “## Squad” section by tagging your fellow squad members via their GitHub username.
 
-Step 6: Complete the “## Further detail” which contains a prompt about the content you should include.
+**Step 6:** Complete the “## Further detail” which contains a prompt about the content you should include.
 
-Step 7: Attach “Assignees” to the brief (these are your fellow squad members). This feature may be found either at the bottom of the pop-up window or on the right side-navigation of the issue.
+**Step 7:** Attach “Assignees” to the brief (these are your fellow squad members). This feature may be found either at the bottom of the pop-up window or on the right side-navigation of the issue.
 
-Step 8: Add the appropriate labels (guide coming soon).
+**Step 8:** Add the appropriate labels (guide coming soon).
 
-Step 9: Add a “Project” board. In most cases this should be “GOV.UK Design System cycle board”.
+**Step 9:** Add a “Project” board. In most cases this should be “GOV.UK Design System cycle board”.
 
-Step 10: Select the green “Create” button to open your issue.
+**Step 10:** Select the green “Create” button to open your issue.
 
 After the brief has been created, double check it has been set up correctly by reviewing the right side-navigation to check all the appropriate metadata is showing. 
 
