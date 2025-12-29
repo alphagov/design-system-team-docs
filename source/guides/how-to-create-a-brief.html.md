@@ -4,7 +4,7 @@ weight: 5
 ---
 # How to create a brief
 
-In GitHub we used “parent” issues to host our cycle briefs. This creates a hierarchy where we can create sub-issues which form the deliverables of a brief.
+In GitHub we use “parent” issues to host our cycle briefs. This creates a hierarchy where we can create sub-issues which form the deliverables of a brief.
 
 In the majority of cases, the brief will already have been created by a team lead. However, there may be occasions when you need to create a brief yourself. This guide explains how.
 
