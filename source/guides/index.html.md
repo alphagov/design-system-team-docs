@@ -8,7 +8,6 @@ weight: 5
 A collection of 'how to' guides to help you you do a thing.
 
 - [Decision making techniques](./decision-making-techniques/)
-- [How to use GitHub to manage your work](./how-to-use-GitHub-to-manage-your-work/)
 - [How to run a Design System team ceremony or workshop](./how-to-run-a-design-system-team-ceremony-or-workshop/)
 - [How to be an epic lead](./how-to-be-an-epic-lead/)
 - [How to get help from other roles](./get-help-from-other-roles/)
@@ -17,3 +16,8 @@ A collection of 'how to' guides to help you you do a thing.
 - [How to organise and run a working group review](./how-to-organise-and-run-a-working-group-review/)
 - [What to do when someone joins or leaves the team](./what-to-do-when-someone-joins-or-leaves-the-team/)
 - [Version Control](./version-control/)
+
+# Using GitHub
+
+- [How to create a brief](./how-to-create-a-brief/)
+- [How to create a sub-issue](./how-to-create-a-sub-issue/)
