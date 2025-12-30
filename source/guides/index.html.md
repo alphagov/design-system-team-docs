@@ -17,7 +17,7 @@ A collection of 'how to' guides to help you you do a thing.
 - [What to do when someone joins or leaves the team](./what-to-do-when-someone-joins-or-leaves-the-team/)
 - [Version Control](./version-control/)
 
-# Using GitHub
+## Using GitHub
 
 - [How to create a brief](./how-to-create-a-brief/)
 - [How to create a sub-issue](./how-to-create-a-sub-issue/)
