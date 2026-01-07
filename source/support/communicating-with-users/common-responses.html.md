@@ -652,11 +652,11 @@ Migrating to at least GOV.UK Frontend v4.10 will allow a service to have the bas
 
 ### Does the Design System encourage scam sites?
 
-> Sorry you've received that, spam and scam emails are always concerning. In government we do keep an eye out for scam sites and take them down. If you'd like to report one, you can use this link:
+> Thanks for letting us know of your concern about the Design System site being public. This is by design. As it is for most projects at GDS, we [work in the open](https://gds.blog.gov.uk/2017/09/04/the-benefits-of-coding-in-the-open/), which brings many benefits. Particularly for us, working in the open is critical for collaborating with the many government organisations who use our components. It also helps us share best practices not just within government but with everyone.
 >
-> https://www.gov.uk/report-suspicious-emails-websites-phishing
->
-> As for this repo, unfortunately if people want to run a scam, it's already fairly easy to copy and paste code from any website in order to impersonate it.
+> Scammers can already easily create fraudulent websites by accessing any website and scraping the code of the web pages sent to their browser to create a lookalike. The Design System being private would not prevent a scammer from creating a fraudulent site. If you do notice a particular website impersonating a Government service, we encourage you to report it using this link: https://www.gov.uk/report-suspicious-emails-websites-phishing
+> 
+> It's also worth noting that our components and patterns don't have any security sensitivity: they're about foundational features (like setting the typography of the pages or implementing form fields accessibly) rather than processing and storing users' or organisations' data.
 
 ### Marketing emails or other spam not requiring a response
 
