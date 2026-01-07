@@ -8,7 +8,6 @@ weight: 5
 A collection of 'how to' guides to help you you do a thing.
 
 - [Decision making techniques](./decision-making-techniques/)
-- [How to be an epic lead](./how-to-be-an-epic-lead/)
 - [How to get help from other roles](./get-help-from-other-roles/)
 - [How to organise and run a working group review](./how-to-organise-and-run-a-working-group-review/)
 - [How to purchase something](./how-to-purchase-something/)
