@@ -1,3 +1,10 @@
+---
+title: Collecting feedback from the community
+weight: 8
+---
+
+# Collecting feedback from the community
+
 <table class="govuk-table">
   <thead class="govuk-table__head">
     <tr class="govuk-table__row">
