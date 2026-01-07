@@ -23,6 +23,8 @@ Make sure to include:
 - what it will be used for
 - alternatives you have explored for this need (eg GitHub Projects or Milestones)
 
+A team lead or delivery manager will review it.
+
 ## Stickers
 
 We usually create stickers on the team to celebrate an achievement, a major milestone or publishing something new.
