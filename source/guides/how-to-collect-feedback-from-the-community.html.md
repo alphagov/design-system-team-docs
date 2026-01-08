@@ -25,18 +25,20 @@ ongoing feedback indefinitely, do you want to co-design with the community or do
 Use this guide if you want help with decision making.
 
 If you want to show the community what you’ve done, consider:
+
 - writing a blog post
 - presenting slides at an internal showcase or community event
 - presenting slides at an external event
 
 If you want to co-design with the community, consider
+
 - running specific sessions, workshops, design crits, hack-a-thons etc. with the community
-- organising a steering group – forming a group who have an interest or have worked on similar projects to the one you are
-working on. You can set up a Google group to message them specifically.
+- organising a steering group – forming a group who have an interest or have worked on similar projects to the one you are working on. You can set up a Google group to message them specifically.
 
 ## Which channels to ask for feedback on
 
 The common channels we use are:
+
 - Github discussions
   - [govuk-design-system discussions](https://github.com/alphagov/govuk-design-system/discussions) for general and design related feedback
   - [govuk-frontend discussions](https://github.com/alphagov/govuk-frontend/discussions) for technical feedback
@@ -46,8 +48,7 @@ The common channels we use are:
 - Email the mailing list
 - Slack
 
-The channel you use will depend on who you want to reach and what type of feedback you need. You may need to use
-multiple channels and signposts from other channels.
+The channel you use will depend on who you want to reach and what type of feedback you need. You may need to use multiple channels and signposts from other channels.
 
 ### Github discussions
 Use Github discussions if you need to
@@ -58,10 +59,7 @@ Use Github discussions if you need to
 - allow users and the team to build on, ask questions and debate with each other
 - reach all users
 
-Github discussions are good for working in the open, transparency and keeping feedback all in one place. But be aware,
-you will have limited scope to collect user characteristics. Some users don’t want to or find it difficult to use
-Github. Github is open to everyone, this can attract irrelevant opinions and will require moderation. You’re more likely
-to get strong opinions rather than neutral opinions.
+Github discussions are good for working in the open, transparency and keeping feedback all in one place. But be aware, you will have limited scope to collect user characteristics. Some users don’t want to or find it difficult to use Github. Github is open to everyone, this can attract irrelevant opinions and will require moderation. You’re more likely to get strong opinions rather than neutral opinions.
 
 ### Survey
 
@@ -72,10 +70,9 @@ Use a survey if you need to
 - gather data about users themselves, for example, characteristics, level of confidence
 - users to respond to specific questions
 - target certain types of user groups (e.g. use screening questions)
-feedback to be private (e.g if responses might include sensitive topics)
+- get private feedback (e.g if responses might include sensitive topics)
 
-Surveys are good for collecting systematic feedback and doing quantitative analysis, however there’s no space for
-discussions. But be aware you’ll need to send out multiple reminders.
+Surveys are good for collecting systematic feedback and doing quantitative analysis, however there’s no space for discussions. But be aware you’ll need to send out multiple reminders.
 
 ### Monthly community chat
 
@@ -85,9 +82,7 @@ Use the monthly community chat if you need to
 - allow users to discuss and surface ideas (e.g breakout room discussion)
 - gather feedback about general topics (e.g community activities, pain points, ideation)
 
-The monthly community chat is open to any Design System users. Attendees' experience and context can vary widely and
-feedback you receive will reflect this. In the past, we’ve found it difficult to include a lot of technical folk. The
-format is timebound and less convenient than asynchronous methods. It’s also harder for users to provide evidence on the
+The monthly community chat is open to any Design System users. Attendees' experience and context can vary widely and feedback you receive will reflect this. In the past, we’ve found it difficult to include a lot of technical folk. The format is timebound and less convenient than asynchronous methods. It’s also harder for users to provide evidence on the
 spot and more prone to opinions.
 
 ### Email the mailing list
@@ -97,9 +92,7 @@ Use email if you need to
 - contact as many of our users as possible
 - ask for a specific thing (e.g. sign up to do user research)
 
-Email is best used to signpost to other channels you’re collecting feedback or telling users about community activities.
-Be aware that any emails sent to the mailing list must fit in with existing communications that’s already going out to
-users. Send emails sparingly as it can feel “spammy”. Once emails are sent, they are uneditable.
+Email is best used to signpost to other channels you’re collecting feedback or telling users about community activities. Be aware that any emails sent to the mailing list must fit in with existing communications that’s already going out to users. Send emails sparingly as it can feel “spammy”. Once emails are sent, they are uneditable.
 
 ### Slack
 
@@ -109,8 +102,7 @@ Use Slack if you need to:
 - get feedback from a specific group of users (e.g. port maintainers, steering group)
 - get feedback from a specific person
 
-Slack is best used to signpost to other channels you’re collecting feedback. Users tend not to read or respond to older
-messages. You will need to transpose feedback somewhere else as we don’t have access to messages older than 90 days.
+Slack is best used to signpost to other channels you’re collecting feedback. Users tend not to read or respond to older messages. You will need to transpose feedback somewhere else as we don’t have access to messages older than 90 days.
 
 ## How to ask for feedback
 
@@ -121,7 +113,8 @@ When posting on GitHub discussions, use one of the following templates for Desig
 #### An open-ended discussion
 
 *[Title in the title field]*
-```
+
+```[md]
 We are working on...
 
 ## About this work
@@ -149,8 +142,6 @@ Prompts:
 
 ## Other ways you can give feedback
 
-
-
 ## When to give feedback by
 
 <!-- time and date -->
@@ -160,7 +151,8 @@ Prompts:
 #### A question and answer
 
 *[Title in the title field, in the form of a question]*
-```
+
+```[md]
 We are working on...
 
 ## About this work
@@ -188,7 +180,8 @@ Answer the question, or vote for the best answer that somebody else has submitte
 #### A poll
 
 *[POLL: Title in the title field]*
-```
+
+```[md]
 We are working on...
 
 ## About this work
@@ -246,28 +239,20 @@ Things to think about when considering where to promote your request:
 - the audience
 - the level of feedback you require, for example, can someone contribute without much context?
 
-Try not to alienate who can take part in your request for review. It’s good to aim to have one source of truth for
-feedback but include methods to support users contributing in other ways, for example, let users email or direct message
-with their feedback and obtain their consent to post it in the more public forums.
+Try not to alienate who can take part in your request for review. It’s good to aim to have one source of truth for feedback but include methods to support users contributing in other ways, for example, let users email or direct message with their feedback and obtain their consent to post it in the more public forums.
 
 ### When and how to close a request for feedback
 
 #### On GitHub Discussions
-Include within your post a time and date in which you hope to collect feedback by. Use the ‘When to give feedback by’
-heading to communicate these dates.
+Include within your post a time and date in which you hope to collect feedback by. Use the ‘When to give feedback by’ heading to communicate these dates.
 
-You should collate all feedback on the discussion thread or backlog issue. If this is not possible for some reason, you
-could use an internal document, a brief issue, or even a pull request/issue on one of our GitHub repositories if the
-feedback highlights a small, actionable task.
+You should collate all feedback on the discussion thread or backlog issue. If this is not possible for some reason, you could use an internal document, a brief issue, or even a pull request/issue on one of our GitHub repositories if the feedback highlights a small, actionable task.
 
-If you’ve got feedback in a private channel and haven’t already told users how that feedback might be anonymised and
-made public, ask for permission to do so before adding the feedback to the common location.
+If you’ve got feedback in a private channel and haven’t already told users how that feedback might be anonymised and made public, ask for permission to do so before adding the feedback to the common location.
 
-Once the date for feedback has passed, summarise the findings either in the original discussion post or as a comment on
-the discussion thread.
+Once the date for feedback has passed, summarise the findings either in the original discussion post or as a comment on the discussion thread.
 
 You can then close the discussion thread with a comment thanking folks for contributing, indicating if and how they can
 still feedback, and reminding folks how the feedback might be used.
 
-When the status of the work changes, it’s useful to update the thread with a comment pointing at that work, so everybody
-who took part will be notified that there’s been an update.
+When the status of the work changes, it’s useful to update the thread with a comment pointing at that work, so everybody who took part will be notified that there’s been an update.
