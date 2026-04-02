@@ -27,10 +27,6 @@ If a submission to the [Community Resources] list is made whilst you are on supp
 
 Whilst on support, it is preferable to pause sprint work and prioritise support tasks.
 
-## Daily check in
-
-At the end of each day you should complete the [daily check in form]. In the absence of logging support requests this will help us measure the impact of providing support.
-
 [#govuk-design-system]: https://gds.slack.com/messages/CAF8JA25U
 [#govuk-design-system-xgov]: https://ukgovernmentdigital.slack.com/messages/govuk-design-system
 [Community Resources]: https://design-system.service.gov.uk/community/resources-and-tools/
