@@ -660,8 +660,6 @@ Migrating to at least GOV.UK Frontend v4.10 will allow a service to have the bas
 
 ### Marketing emails or other spam not requiring a response
 
-If an email contains unsolicited marketing or incomprehensible nonsense:
-
 - Set [Design System] Primary to “Spam”
 - Set [Design System] Secondary to “None of the Above”
 - Click the "Apply macro" button, select "Design System" and then "close with no reply"
