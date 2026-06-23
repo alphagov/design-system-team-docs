@@ -278,14 +278,7 @@ The GOV.UK Design System styles and components had a DAC audit done in May 2019 
 
 ### Adapting GOV.UK Frontend for other branding
 
-> We don’t have any guidance on doing this at the moment.
->
-> There are a couple of things you might find helpful:
->
-> - the Sass API reference for changing the colour settings https://frontend.design-system.service.gov.uk/sass-api-reference/#colours
-> - the Sass API reference for changing the font https://frontend.design-system.service.gov.uk/sass-api-reference/#govuk-font-family
->
-> As headers and footers tend to be the components that deviate most from GOV.UK’s when re-branded, we recommend building them from scratch rather than adapting the GOV.UK one
+> We have guidance for how to do this here: [Using GOV.UK Frontend without GOV.UK branding](https://frontend.design-system.service.gov.uk/using-govuk-frontend-without-govuk-branding/)
 
 ### Downloading the GOV.UK Crown
 
@@ -489,11 +482,9 @@ If you receive a ticket responding to a mass email:
 
 ### Not allowed to use GDS Transport
 
-> If your service doesn't meet the criteria you can still use the other parts of the Design System / GOV.UK Frontend if it makes sense to do so, but you should ensure that it doesn't look like GOV.UK (e.g. by using a different font, using a different header and customising the colour palette). See https://design-system.service.gov.uk/styles/typography/#font for information on alternative fonts you can use.
+> If your service doesn't meet the criteria you can still use the other parts of the Design System / GOV.UK Frontend if it makes sense to do so, but you should ensure that it doesn't look like GOV.UK (e.g. by using a different font, using a different header and customising the colour palette). See our guidance on [using GOV.UK Frontend without GOV.UK branding](https://frontend.design-system.service.gov.uk/using-govuk-frontend-without-govuk-branding/) for information on alternative fonts you can use.
 >
 > There is also more guidance about the use of the GDS Transport font in the Service Manual: https://www.gov.uk/service-manual/design/making-your-service-look-like-govuk
->
-> There is no “official” recommendation for an alternative font, but our team would recommend: 'Helvetica Neue', Helvetica, Arial, sans-serif; because ‘Helvetica’ is a “better” font (more consistent characters, better kerning) but ‘Arial’ is supported by most operating systems.
 
 Related: <https://www.gov.uk/service-manual/design/services-for-government-users#logos-and-fonts>
 
@@ -511,7 +502,7 @@ Note for reference that these are for v1 of the font. We can’t use the most re
 
 ### Fonts for Axure
 
-> Unfortunately it’s not allowed to upload the GDS Transport font files to Axure’s servers. You should use Arial or other font that’s as close as possible.
+> Unfortunately it’s not allowed to upload the GDS Transport font files to Axure’s servers. You should use Arial or other font that’s as close as possible. See our guidance on [using GOV.UK Frontend without GOV.UK branding](https://frontend.design-system.service.gov.uk/using-govuk-frontend-without-govuk-branding/) for information on alternative fonts you can use.
 
 Extra context: it shouldn’t be necessary to use Transport in Axure since nothing else is going to behave the same anyway.
 
