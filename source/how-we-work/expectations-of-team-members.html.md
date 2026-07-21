@@ -10,7 +10,7 @@ This guide documents the expectations we have of those who work on the GOV.UK De
 Core hours are 10am-4pm. Please try to avoid arranging meetings outside of those times and over the lunch period.
 
 ## Leave
-You should ask Izabela and Kam if you wish to take leave. If Izabela and Kam are not here, then Kelly. Please do not seek approval for leave from the team on shared Slack channels. Delivery managers are responsible for team capacity and how that impacts delivery, so it’s their decision as to whether leave can be taken.
+You should ask a team delivery manager if you wish to take leave. If the team delivery managers are not here, then the lead delivery manager or another team lead. Please do not seek approval for leave from the team on shared Slack channels. Delivery managers are responsible for team capacity and how that impacts delivery, so it’s their decision as to whether leave can be taken.
 
 Also, please book leave as far in advance as possible. The team leads need this information when planning cycles of work.
 
