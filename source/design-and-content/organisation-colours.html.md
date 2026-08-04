@@ -1,7 +1,7 @@
 ---
 title: Organisation colours in GOV.UK Frontend
 weight: 2
-last_reviewed_on: 2024-10-08
+last_reviewed_on: 2026-08-04
 review_in: 6 months
 ---
 
@@ -29,7 +29,7 @@ Exceptions can be made where the organisation uses GOV.UK as its primary web pre
 
 Brand colours are determined from a number of sources. These are:
 
-- the HMG Identity System and related assets – these are distributed via the [HMG Brand Portal](https://hmgbrand.gcs.civilservice.gov.uk/)
+- the HMG Identity System and related assets – these are distributed via the [UK Government Brand Portal](https://www.brand.gov.uk/)
 - the Cabinet Office branding team, who own the HMG Identity System
 - [Design102](https://design102.co.uk/), the government's in-house design agency, who are responsible for updating the HMG Identity System
 - assets and guidelines supplied by individual organisations
