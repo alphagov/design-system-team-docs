@@ -4,3 +4,86 @@ weight: 9
 ---
 
 # Accessibility
+
+Lots of information about accessibility and how we should deal with it is already available on other websites or across various internal documents.
+
+
+## General resources
+
+Some starting points:
+
+* [Making your service accessible: an introduction (Service Manual)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/making-your-service-accessible-an-introduction)
+* [Guidance and tools for digital accessibility (GOV.UK guidance)](https://www.gov.uk/guidance/guidance-and-tools-for-digital-accessibility)
+* [Building accessible services (The GDS Way)](https://gds-way.digital.cabinet-office.gov.uk/manuals/accessibility.html)
+* [Guidance for your job role (DWP Accessibility Manual)](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role)
+* [Resources for Accessibility (internal Word doc)](https://beisgov.sharepoint.com/:w:/s/ServiceTransformation/IQAQxGBIgj19Q6fAKfIIUGxKAYyzSJ2hNcvs2R6RrJhaYQA?e=fnGTLI)
+
+
+## Testing tools and processes
+
+General guidance: [Testing for accessibility (Service Manual)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/testing-for-accessibility).
+
+The Service Manual talks about four types of testing: automated testing, manual testing, testing with assistive technologies and including people with access needs in user research.
+
+
+### Automated testing
+
+Automated testing tools (choose one):
+
+* [Axe](https://www.deque.com/axe/) (the team uses jest-axe for continuous integration as well as html-validate)
+* [WAVE](http://wave.webaim.org/extension/)
+* [ARC Toolkit](https://www.tpgi.com/arc-platform/arc-toolkit/)
+* [SiteImprove](https://www.siteimprove.com/integrations/browser-extensions/)
+* browser accessibility reports (for example, Lighthouse in Chrome's devtools)
+
+
+### Manual testing
+
+How to use [accessibility acceptance criteria](https://github.com/alphagov/govuk-frontend/blob/main/docs/contributing/test-components-using-accessibility-acceptance-criteria.md) for the GOV.UK Design System.
+
+Checklists for basic and easier checks (choose one):
+
+* [Doing a basic accessibility check if you cannot do a detailed one (GOV.UK guidance)](https://www.gov.uk/government/publications/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one/doing-a-basic-accessibility-check-if-you-cant-do-a-detailed-one)
+* [Easy Checks (W3C)](https://www.w3.org/WAI/test-evaluate/preliminary/)
+* [How to do a quick accessibility review (internal Word doc)](https://beisgov.sharepoint.com/:w:/s/ServiceTransformation/IQCTdKO0-Mk-Rrcmh1M0rvHJAfc4eyxGDAnvcnjEzhCD7UY?e=YjmlXo)
+
+Checklists for more involved checks (choose one):
+
+* [Accessibility testing guide (GDS)](https://github.com/alphagov/wcag-primer/wiki)
+* [Accessibility Insights](https://accessibilityinsights.io/)
+
+
+### Testing with assistive technologies (AT)
+
+General guidance: [Testing with assistive technologies (Service Manual)](https://www.gov.uk/service-manual/technology/testing-with-assistive-technologies).
+
+If you don't have access to the AT listed in the Service Manual, test with these at a minimum:
+
+* any desktop screen reader
+* any mobile screen reader
+* any screen magnifier
+* any speech recognition software / voice control tool
+
+You can get access to most AT via [Assistiv Labs](https://gds-way.digital.cabinet-office.gov.uk/manuals/accessibility.html#using-assistiv-labs-to-test-with-assistive-technologies) and [BrowserStack](https://gds-way.digital.cabinet-office.gov.uk/manuals/browser-support.html#testing).
+
+What neither [BrowserStack supports](https://www.browserstack.com/docs/live/accessibility-testing) nor [Assistiv Labs support](https://assistivlabs.com/settings/pricing) are:
+
+* VoiceOver on iOS - You have to use your work phone for testing
+* Dragon (or any other voice control tool) - You have to ask Anika to test (or hope for the Accessibility Lab to re-open)
+
+Record results on a copy of [our accessibility testing spreadsheet](https://beisgov.sharepoint.com/:x:/s/GOVUKDS/IQAMnTltG8V8RZxiCrhYbooxAa7fU9J3jgYuB0PHw_c87MI?e=lUUUMK).
+
+
+### User Research
+
+General guidance: [Running research sessions with disabled people (Service Manual)](https://www.gov.uk/service-manual/user-research/running-research-sessions-with-people-with-disabilities).
+
+Not the same as user research but very useful is a cognitive walkthrough with the help of [our accessibility personas](https://alphagov.github.io/accessibility-personas/).
+
+
+## Accessibility in the GOV.UK Design System
+
+Specific to the GOV.UK Design System team:
+
+* [Our accessibility strategy](https://design-system.service.gov.uk/accessibility/accessibility-strategy/)
+* [How to deal with accessibility issues (internal Word doc)](https://beisgov.sharepoint.com/:w:/r/sites/GOVUKDS/Shared%20Documents/General/PLANNING/Planning_%20Accessibility/2025%20content%20updates/How%20to%20deal%20with%20accessibility%20issues%20-%20GOV.UK%20Design%20System.docx?d=w4847400a93a24c2a9b28972dc773af3a&csf=1&web=1&e=WzidRS)
