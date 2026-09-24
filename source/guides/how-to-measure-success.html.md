@@ -10,6 +10,7 @@ We like to work with evidence.
 We know figuring out how to measure success of a component, pattern or piece of content can be difficult. Although every piece of work is different this guide includes what data we have available and what measuring success might look like. 
 
 We have a range of data that will help us check if a new addition to the design system is successful or needs improving. Using a range of these will give us the best outcome
+
 -  Google Analytics
 -  Community discussions on Github
 -  Community outreach (x-gov slack)
@@ -23,6 +24,7 @@ We have a range of data that will help us check if a new addition to the design 
 You want to measure the success of a new component, as an example the Feedback component. 
 
 You might
+
 - Open up a community discussion asking for feedback
 - Add a question to the always on research, to ask how service teams are using the component
 - Use analytics to see how much engagement the guidance page is getting
