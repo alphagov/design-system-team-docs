@@ -9,6 +9,7 @@ A collection of 'how to' guides to help you you do a thing.
 
 - [Decision making techniques](./decision-making-techniques/)
 - [How to collect feedback from the community](./how-to-collect-feedback-from-the-community/)
+- [How to decide what to deliver](./how-to-decide-what-to-deliver/)
 - [How to get help from other roles](./get-help-from-other-roles/)
 - [How to measure success] (./how-to-measure-success)
 - [How to purchase something](./how-to-purchase-something/)
