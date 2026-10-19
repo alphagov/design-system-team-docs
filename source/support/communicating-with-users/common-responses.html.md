@@ -18,7 +18,7 @@ You can also check if there’s a relevant [government community] to refer users
 
 ## Brand refresh
 
-See our [brand refresh Support Q&A](https://docs.google.com/document/d/15EzeTBUKsCbKFe9020RexR3SkxvejaA79CH9pMQaKWk/edit?tab=t.0#heading=h.dbif3uka2c).
+See our [brand refresh Support Q&A](https://beisgov.sharepoint.com/:w:/r/sites/GOVUKDS/_layouts/15/Doc.aspx?sourcedoc=%7BDCB222D8-3DEC-440A-95D1-12C8A78323CA%7D&file=Brand%20Refresh%20Support%20Q%26A.docx&action=default&mobileredirect=true&DefaultItemOpen=1).
 
 ## Generic responses
 
