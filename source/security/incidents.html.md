@@ -63,7 +63,7 @@ It is almost always helpful to hop on a video call with each other while dealing
 
 ### Start an incident report
 
-The incident team at this point should start an incident report so that they can keep track of the incident, its impact, its severity, a timeline of events and, once resolved, a list of actions taken out of an incident review. You can find a template for incident reports, as well as a record of all previous incidents by year, [in the INCIDENTS folder in the team drive](https://drive.google.com/drive/u/0/folders/1plXDUGFIoyzWubWNC9J_IjMiEN8eh9pO).
+The incident team at this point should start an incident report so that they can keep track of the incident, its impact, its severity, a timeline of events and, once resolved, a list of actions taken out of an incident review. You can find a template for incident reports, as well as a record of all previous incidents by year, [in the INCIDENTS folder in the team drive](https://beisgov.sharepoint.com/:f:/r/sites/GOVUKDS/Shared%20Documents/General/INCIDENTS?d=w400bb9d33a91490b9210d663ff3c4073&csf=1&web=1&e=QPgpko).
 
 The nature of incidents means that you may not have time to keep the report up to date as the incident is happening. If the incident team are unable to do this, you should update the incident report at the earliest opportunity.
 
