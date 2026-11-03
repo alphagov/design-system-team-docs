@@ -41,5 +41,5 @@ Whilst on support, it is preferable to pause sprint work and prioritise support 
 [guidance to invite the guest]: https://sites.google.com/a/digital.cabinet-office.gov.uk/gds/information-management/using-online-tools-at-gds/use-gds-slack
 [xgov-domain-list]: https://github.com/bruntonspall/xgovslackbot/blob/ae6664437dadb2aef4c21ab97c2818f2ca5f9604/app/domains.js#L9
 [Zendesk]: https://govuk.zendesk.com/agent/dashboard
-[Zendesk-help]: https://docs.google.com/presentation/d/1VrDAuCm5qm6ULNGRco_deB7EIFf95bHFDlqG-yvLQi4/edit#slide=id.p17
+[Zendesk-help]: https://beisgov.sharepoint.com/_layouts/15/DocIdRedir.aspx?ID=QYURM3EF33H2-2014490825-12127
 

@@ -338,7 +338,7 @@ Please see this blog post on government design resources for more information: <
 
 (There is this as well: <https://github.com/ctdesign/gov-design-systems-list> Maybe we can hand it out with caveats?)
 
-And this: a list of community developed tools and resources <https://docs.google.com/document/d/1npAUOwumZU2lwpRxSWET5MBpzWAkVSjmy6k_V9TDJio/edit>
+And this: a list of community developed tools and resources <https://beisgov.sharepoint.com/_layouts/15/DocIdRedir.aspx?ID=QYURM3EF33H2-2014490825-8199>
 
 ## Components
 
