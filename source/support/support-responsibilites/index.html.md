@@ -27,19 +27,5 @@ If a submission to the [Community Resources] list is made whilst you are on supp
 
 Whilst on support, it is preferable to pause sprint work and prioritise support tasks.
 
-[#govuk-design-system]: https://gds.slack.com/messages/CAF8JA25U
-[#govuk-design-system-xgov]: https://ukgovernmentdigital.slack.com/messages/govuk-design-system
 [Community Resources]: https://design-system.service.gov.uk/community/resources-and-tools/
-[cross government Slack]: https://ukgovernmentdigital.slack.com/
-[daily check in form]: https://docs.google.com/forms/d/e/1FAIpQLSdp1Fvypj24N1XoheRPdXbMcB784NZXaqYQkK9zGxSqhohmgg/viewform
 [Design System team events]: https://calendar.google.com/calendar/embed?src=digital.cabinet-office.gov.uk_4bkq5dftg4doh71gg8tpelgi0k%40group.calendar.google.com&ctz=Europe%2FLondon
-[govuk-design-system-issues]: https://github.com/alphagov/govuk-design-system/issues
-[govuk-design-system-prs]: https://github.com/alphagov/govuk-design-system/pulls
-[govuk-design-system-backlog-issues]: https://github.com/orgs/alphagov/projects/43
-[govuk-frontend-issues]: https://github.com/alphagov/govuk-frontend/issues
-[govuk-frontend-prs]: https://github.com/alphagov/govuk-frontend/pulls
-[guidance to invite the guest]: https://sites.google.com/a/digital.cabinet-office.gov.uk/gds/information-management/using-online-tools-at-gds/use-gds-slack
-[xgov-domain-list]: https://github.com/bruntonspall/xgovslackbot/blob/ae6664437dadb2aef4c21ab97c2818f2ca5f9604/app/domains.js#L9
-[Zendesk]: https://govuk.zendesk.com/agent/dashboard
-[Zendesk-help]: https://docs.google.com/presentation/d/1VrDAuCm5qm6ULNGRco_deB7EIFf95bHFDlqG-yvLQi4/edit#slide=id.p17
-

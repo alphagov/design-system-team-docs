@@ -167,9 +167,8 @@ We also hold bi-weekly sessions to give tags to Slack messages.
 [latest comments]: https://github.com/alphagov/govuk-design-system-backlog/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc
 [mailchimp]: https://login.mailchimp.com/
 [raise-issue]: https://design-system.service.gov.uk/community/propose-a-component-or-pattern/#2-raise-an-issue
-[support log spreadsheet]: https://docs.google.com/document/d/1G-TN0uXeKchwhHZnmPveX5YteXi3uSl0Rf5vtg-J5l4/edit?usp=sharing
-[support model blueprint]: https://docs.google.com/drawings/d/1ox2FK9q6GRyY_zvhSuFIOT9-a6Wd-R4-kP8OlrzVCvk/edit
+[support log spreadsheet]: https://beisgov.sharepoint.com/_layouts/15/DocIdRedir.aspx?ID=QYURM3EF33H2-2014490825-12431
 [xgov-domain-list]: https://github.com/bruntonspall/xgovslackbot/blob/ae6664437dadb2aef4c21ab97c2818f2ca5f9604/app/domains.js#L9
 [Zendesk]: https://govuk.zendesk.com/agent/dashboard
-[Zendesk-help]: https://docs.google.com/presentation/d/1VrDAuCm5qm6ULNGRco_deB7EIFf95bHFDlqG-yvLQi4/edit#slide=id.p17
+[Zendesk-help]: https://beisgov.sharepoint.com/_layouts/15/DocIdRedir.aspx?ID=QYURM3EF33H2-2014490825-12127
 

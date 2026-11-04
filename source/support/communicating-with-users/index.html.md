@@ -41,5 +41,5 @@ Use this [guide to identify if a query is a feature or a bug].
 
 [backlog]: https://github.com/alphagov/govuk-design-system-backlog
 [create a Follow up ticket]: https://support.zendesk.com/hc/en-us/articles/203690986-Creating-a-follow-up-for-a-closed-ticket 
-[Design System communications charter]: https://docs.google.com/document/d/119d3menyPzJ4R4GJEsgAWRaair9ueuamCqxUKDLkuNI/edit
-[guide to identify if a query is a feature or a bug]: https://docs.google.com/document/d/1DthS8EVbUiGJvss4mw-irEjvkkX7mqT9n4fBbRHjFz8/edit
+[Design System communications charter]: https://beisgov.sharepoint.com/_layouts/15/DocIdRedir.aspx?ID=QYURM3EF33H2-2014490825-11988
+[guide to identify if a query is a feature or a bug]: https://beisgov.sharepoint.com/_layouts/15/DocIdRedir.aspx?ID=QYURM3EF33H2-2014490825-11995

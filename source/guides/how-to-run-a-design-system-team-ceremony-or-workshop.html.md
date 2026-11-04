@@ -65,13 +65,13 @@ In these sessions, the team reviews the briefs prioritised for the next cycle. B
 
 The briefs are prepared beforehand by the team leads and drafted into GitHub issues. [Epic leads](https://govuk-design-system-team-docs.netlify.app/guides/how-to-be-an-epic-lead/) are identified by the team leads and informed of their role before cycle planning. Squads for each brief are also currently determined beforehand, but in future we'd like to move to a self-select model during planning.
 
-In the session, the facilitator will recap the briefs from the previous cycle and introduce the upcoming briefs and squads. They will also highlight anything of note happening in the next cycle (eg significant leave or events which may impact delivery). We use [the same slide deck](https://docs.google.com/presentation/d/1MxoMVQe7DgpdQVXLqRZVU6TYkqBZyH7cAS75W-PMVTE/edit#slide=id.g292361900d8_0_4) for each planning session but just update the details each time.
+In the session, the facilitator will recap the briefs from the previous cycle and introduce the upcoming briefs and squads. They will also highlight anything of note happening in the next cycle (eg significant leave or events which may impact delivery). We use [the same slide deck for each planning session](hhttps://beisgov.sharepoint.com/_layouts/15/DocIdRedir.aspx?ID=QYURM3EF33H2-2014490825-8570) but just update the details each time.
 
 They will then allocate a breakout room to each squad for a 45 minute discussion about how they will deliver the brief. After a short break, each squad will play back their high level deliverables for the brief.
 
 ### Retrospectives
 
-Retros (or cycle reviews) occur in reflection week. The purpose of retro is to reflect on the previous cycle and identify ways a squad can improve its processes going forward. Therefore it’s useful if the whole team attends so we collectively agree to actions. The [same retro board](https://trello.com/b/kAqsN3h5/design-system-retrospective-11062024) can be used each time.
+Retros (or cycle reviews) occur in reflection week. The purpose of retro is to reflect on the previous cycle and identify ways a squad can improve its processes going forward. Therefore it’s useful if the whole team attends so we collectively agree to actions. The [same retro board](https://padlet.com/govukdesignsystem/1fuvesttdtia6k22) can be used each time.
 
 When planning or facilitating a retro, there are a few things to remember:
 
@@ -79,7 +79,7 @@ When planning or facilitating a retro, there are a few things to remember:
 - retros are squad based, but there is opportunity to reflect on other squad's briefs
 - it's the responsibility of the facilitator to document the notes from retro and clear the board ready for the next session
 
-  There is a [slide deck](https://docs.google.com/presentation/d/1e1rB8V95Qzigf2AolNqDbnCGYRmiIEbLWpWAs9oIZT8/edit#slide=id.g292361900d8_0_4) to be used during retro which also acts as a walkthrough of the facilitation.
+There is a [slide deck](https://beisgov.sharepoint.com/:p:/r/sites/GOVUKDS/Shared%20Documents/General/TEAM/Retrospectives/GOV.UK%20Design%20System_%20Cycle%20Review%20(MAIN%20DECK%202025).pptx?d=w1883fa8ab6d548618022d26454d5ee8b&csf=1&web=1&e=JeyXwy) to be used during retro which also acts as a walkthrough of the facilitation.
 
 ## Other team meetings
 

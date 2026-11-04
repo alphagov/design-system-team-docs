@@ -31,7 +31,7 @@ You’ll first need to identify all potential tasks you could undertake, then so
 
 You must also provide a rationale as to why this choice was made, and ensure this is documented for future reference. 
 
-This exercise can be done as a group discussion, or as an individual exercise where team members asynchronously contribute their decisions. You can see an example of the latter [here when we were deciding on which guidance to ship as part of Exit this page](https://docs.google.com/spreadsheets/d/1_Cy7oVvzbGZhao9aZwEViaWG5-G4NcBMyqWT_cI-1NE/edit?gid=0#gid=0). This technique does however require an accountable decision maker, who will review the thoughts and rationale shared by the team and decide on how to proceed. 
+This exercise can be done as a group discussion, or as an individual exercise where team members asynchronously contribute their decisions. You can see an example of the latter [here when we were deciding on which guidance to ship as part of Exit this page](https://beisgov.sharepoint.com/_layouts/15/DocIdRedir.aspx?ID=QYURM3EF33H2-2014490825-10730). This technique does however require an accountable decision maker, who will review the thoughts and rationale shared by the team and decide on how to proceed.
 
 You can [read more about the MoSCoW framework here on ProductPlan](https://www.productplan.com/glossary/moscow-prioritization/)
 
@@ -51,7 +51,7 @@ As well as making decisions, it’s also important to record key decisions which
 
 There are a few tools you can use to record decisions:
 
-- a decision log, such as the one used [here when developing Navigation components](https://docs.google.com/spreadsheets/d/1zduTR-kZc5j28PFMi98-KNoP8W8S-8iJtisf9nLAbIM/edit?gid=1037439525#gid=1037439525) 
+- a decision log, such as the one used [when developing Navigation components](https://beisgov.sharepoint.com/_layouts/15/DocIdRedir.aspx?ID=QYURM3EF33H2-2014490825-3246)
 - an update to the [community backlog](https://github.com/orgs/alphagov/projects/43/views/2) entry for a particular style, component or pattern
 - a comment on the relevant GitHub issue
 - a GitHub repository such as [govuk-design-system-architecture here](https://github.com/alphagov/govuk-design-system-architecture)
